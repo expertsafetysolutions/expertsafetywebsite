@@ -1,0 +1,47 @@
+{
+  "slug": "reflective-traffic-cone",
+  "name": "Reflective Traffic Cone",
+  "category": "road-traffic-safety",
+  "sku": "ESS-RD-CONE-01",
+  "featured": false,
+  "shortDescription": "PU/PVC traffic cone with reflective collar for site perimeter marking.",
+  "longDescription": "A weighted traffic cone with a reflective collar band for marking work zones, wet floors and vehicle exclusion areas around a site. The 710mm PU version is built for durable, high-frequency road and site use; the 650mm PVC version is a lighter option for indoor and low-traffic marking. Both flex and return to shape after vehicle contact rather than cracking.",
+  "images": [
+    {
+      "src": "/placeholders/road-traffic-safety.svg",
+      "alt": "Reflective Traffic Cone supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Height (PU)",
+      "value": "710 mm, 3.2 kg"
+    },
+    {
+      "label": "Height (PVC)",
+      "value": "650 mm, 2 kg"
+    },
+    {
+      "label": "Material",
+      "value": "Polyurethane (PU) or flexible PVC"
+    },
+    {
+      "label": "Reflective band",
+      "value": "Single collar, high-intensity"
+    },
+    {
+      "label": "Base",
+      "value": "Weighted, wind-stable"
+    },
+    {
+      "label": "Use case",
+      "value": "Perimeter marking, hazard zones, road works"
+    }
+  ],
+  "tags": [
+    "traffic cone",
+    "reflective",
+    "perimeter marking",
+    "site safety"
+  ]
+}

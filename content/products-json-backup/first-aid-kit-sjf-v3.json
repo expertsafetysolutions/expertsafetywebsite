@@ -1,0 +1,40 @@
+{
+  "slug": "first-aid-kit-sjf-v3",
+  "name": "First Aid Kit — SJF V3 (Office / Industry / Vehicle)",
+  "category": "first-aid-kits",
+  "sku": "ESS-FAK-V3",
+  "featured": true,
+  "shortDescription": "36-component first aid kit in a vinyl card-board box, suited to offices, vehicles and small work areas.",
+  "longDescription": "A compact multipurpose kit suited to offices, industrial sites, vehicles, travel and institutions alike. Every component is packed to be recognisable and usable without training, even under pressure, so it works as a genuine first response rather than a box that looks the part. Suitable for up to 5 persons.",
+  "images": [
+    {
+      "src": "/placeholders/first-aid-kits.svg",
+      "alt": "First Aid Kit — SJF V3 (Office / Industry / Vehicle) supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Suitable For",
+      "value": "5 persons"
+    },
+    {
+      "label": "M.R.P.",
+      "value": "₹600 (incl. of taxes)"
+    },
+    {
+      "label": "Housing",
+      "value": "Vinyl card board box"
+    },
+    {
+      "label": "Contents",
+      "value": "First Aid Book x1, Antiseptic Cream 10gms x1, Safety Pin x5, Adhesive Plaster 19x72mm x5, Adhesive Plaster 25x72mm x2, Adhesive Plaster Round x1, Tweezer (Plastic) x1, Wound Cleaning Wipes (ALC) x1, Antiseptic Wipes x1, Sterile Gauze Swab 10cm x1, Sterile Gauze Swab 7.5cm x1, Sterile Burn Dressing 10cm x1, Sterile Adhesive Plaster 6x10cm x1, Scissor 7cm x1, Dusting Powder 10g x1, Absorbent Cotton 15gms x1, Tincture Iodine 20ml x1, Cotton Tape 1.25x1m x1, Sterile Eye Pad Oval x2, Electrolyte Powder x2, Sugar Sachet x2, Salt Sachet x2"
+    }
+  ],
+  "tags": [
+    "first aid kit",
+    "sjf v3",
+    "office",
+    "vehicle",
+    "5 person"
+  ]
+}

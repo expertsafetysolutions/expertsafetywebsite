@@ -1,0 +1,60 @@
+{
+  "slug": "dry-powder-extinguisher-cartridge-operated-6kg",
+  "name": "Dry Powder Fire Extinguisher — Cartridge Operated, 6 kg",
+  "category": "fire-extinguishers",
+  "sku": "KFDRQ-6",
+  "featured": false,
+  "shortDescription": "CO₂-cartridge operated ABC extinguisher for sites that prefer field-refillable units.",
+  "longDescription": "Cartridge-operated extinguishers separate the propellant from the powder charge, so a spent unit can be recharged on site with a fresh CO₂ cartridge rather than being sent for pressurised refilling. The rugged construction and large-loop stainless steel pull pin make it a common choice for transport fleets, remote sites and facilities that run their own extinguisher maintenance store. BIS approved, ISI marked, with a brass chrome-plated valve and hydraulic testing to standard.",
+  "images": [
+    {
+      "src": "/placeholders/fire-extinguishers.svg",
+      "alt": "Dry Powder Fire Extinguisher — Cartridge Operated, 6 kg supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Capacity",
+      "value": "6 kg"
+    },
+    {
+      "label": "Fire class",
+      "value": "A, B, C, electrical"
+    },
+    {
+      "label": "Extinguishing media",
+      "value": "MAP / SBC / PBC dry chemical powder"
+    },
+    {
+      "label": "Fire rating (MAP 90%)",
+      "value": "6A : 183B"
+    },
+    {
+      "label": "CO₂ gas cartridge",
+      "value": "120 gm"
+    },
+    {
+      "label": "Discharge time",
+      "value": "≈ 24 seconds"
+    },
+    {
+      "label": "Range of throw",
+      "value": "≈ 5 m"
+    },
+    {
+      "label": "Approvals",
+      "value": "BIS (RQ Series) / BIS & CE (HQ Series)"
+    },
+    {
+      "label": "Also available in",
+      "value": "4 kg, 9 kg"
+    }
+  ],
+  "tags": [
+    "cartridge operated",
+    "abc",
+    "dry powder",
+    "field refillable",
+    "kanex"
+  ]
+}

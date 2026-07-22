@@ -1,0 +1,44 @@
+{
+  "slug": "hazard-and-prohibition-sign-set",
+  "name": "Hazard & Prohibition Sign Set",
+  "category": "fire-safety-signage",
+  "sku": "ESS-SGN-HAZ-SET",
+  "featured": false,
+  "shortDescription": "Statutory warning, prohibition and mandatory-action signage pack.",
+  "longDescription": "A consolidated pack covering the mandatory, prohibition and warning signage most industrial sites are required to display — no smoking, no open flame, flammable material, PPE required, and electrical hazard warnings. Supplied as a set to simplify a full-site signage audit and rollout.",
+  "images": [
+    {
+      "src": "/placeholders/fire-safety-signage.svg",
+      "alt": "Hazard & Prohibition Sign Set supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Material",
+      "value": "Rigid PVC, 1 mm"
+    },
+    {
+      "label": "Set contents",
+      "value": "12 assorted signs"
+    },
+    {
+      "label": "Sizes",
+      "value": "200×200 mm standard"
+    },
+    {
+      "label": "Categories",
+      "value": "Prohibition, warning, mandatory"
+    },
+    {
+      "label": "Compliance",
+      "value": "ISO 7010 colour and shape coding"
+    }
+  ],
+  "tags": [
+    "hazard",
+    "prohibition",
+    "no smoking",
+    "ppe required",
+    "warning"
+  ]
+}

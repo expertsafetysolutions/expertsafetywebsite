@@ -1,0 +1,37 @@
+{
+  "name": "expert-safety-solutions",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "tinacms dev -c \"next dev\"",
+    "build": "tinacms build && next build",
+    "start": "next start",
+    "lint": "next lint",
+    "tina-dev": "tinacms dev -c \"next dev\"",
+    "tina-build": "tinacms build"
+  },
+  "dependencies": {
+    "@tinacms/cli": "^2.5.6",
+    "clsx": "^2.1.1",
+    "gray-matter": "^4.0.3",
+    "next": "14.2.23",
+    "next-mdx-remote": "^5.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "resend": "^4.0.1",
+    "tailwind-merge": "^2.6.0",
+    "tinacms": "^3.11.0",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.17.12",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "14.2.23",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.7.3"
+  }
+}

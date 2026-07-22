@@ -1,0 +1,44 @@
+{
+  "slug": "chemical-resistant-gumboots",
+  "name": "Chemical-Resistant Gumboots",
+  "category": "safety-footwear",
+  "sku": "ESS-FTW-GUM-01",
+  "featured": false,
+  "shortDescription": "Knee-length PVC gumboots for wet, chemical and effluent-handling areas.",
+  "longDescription": "Moulded PVC gumboots for effluent treatment areas, chemical decanting bays and wash-down zones where a fabric boot would fail quickly. Knee-length coverage keeps splash out, and the steel midsole and toe cap carry the same impact and puncture protection as our dry-area footwear.",
+  "images": [
+    {
+      "src": "/placeholders/safety-footwear.svg",
+      "alt": "Chemical-Resistant Gumboots supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Material",
+      "value": "Moulded PVC"
+    },
+    {
+      "label": "Height",
+      "value": "Knee-length (38 cm)"
+    },
+    {
+      "label": "Toe cap",
+      "value": "Steel, 200 J impact rated"
+    },
+    {
+      "label": "Resistance",
+      "value": "Chemical, water, oil"
+    },
+    {
+      "label": "Standard",
+      "value": "IS 15298 / EN ISO 20345"
+    }
+  ],
+  "tags": [
+    "gumboots",
+    "chemical resistant",
+    "pvc",
+    "effluent",
+    "wash down area"
+  ]
+}

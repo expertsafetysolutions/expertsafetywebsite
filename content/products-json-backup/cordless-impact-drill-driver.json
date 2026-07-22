@@ -1,0 +1,44 @@
+{
+  "slug": "cordless-impact-drill-driver",
+  "name": "Cordless Impact Drill Driver",
+  "category": "industrial-tools",
+  "sku": "ESS-TL-DRL-01",
+  "featured": false,
+  "shortDescription": "Two-speed drill driver for bracket mounting and general fixing work.",
+  "longDescription": "A two-speed cordless drill driver for mounting extinguisher brackets, signage and hydrant fixtures into masonry, steel and timber substrates. Keyless chuck for fast bit changes and a variable-speed trigger for control across drilling and driving tasks.",
+  "images": [
+    {
+      "src": "/placeholders/industrial-tools.svg",
+      "alt": "Cordless Impact Drill Driver supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Chuck",
+      "value": "13 mm keyless"
+    },
+    {
+      "label": "Speed settings",
+      "value": "2-speed gearbox"
+    },
+    {
+      "label": "Torque settings",
+      "value": "Multi-position clutch"
+    },
+    {
+      "label": "Power source",
+      "value": "Cordless, Li-ion (voltage per platform)"
+    },
+    {
+      "label": "Use case",
+      "value": "Bracket & fixture mounting"
+    }
+  ],
+  "tags": [
+    "drill driver",
+    "cordless",
+    "fixing tool",
+    "bracket mounting",
+    "power tool"
+  ]
+}

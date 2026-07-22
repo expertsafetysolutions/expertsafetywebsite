@@ -1,0 +1,44 @@
+{
+  "slug": "rate-of-rise-heat-detector",
+  "name": "Rate-of-Rise Heat Detector",
+  "category": "fire-alarm-detection",
+  "sku": "ESS-ALM-HEAT-01",
+  "featured": false,
+  "shortDescription": "Combined fixed-temperature and rate-of-rise sensing for dusty areas.",
+  "longDescription": "Heat detectors suit environments where smoke detection would false-alarm constantly — kitchens, boiler rooms, dusty production areas and loading bays. This unit combines a fixed upper-temperature threshold with rate-of-rise sensing, so it triggers both on a sudden temperature climb and on an absolute limit.",
+  "images": [
+    {
+      "src": "/placeholders/fire-alarm-detection.svg",
+      "alt": "Rate-of-Rise Heat Detector supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Detection principle",
+      "value": "Rate-of-rise + fixed temperature"
+    },
+    {
+      "label": "Fixed threshold",
+      "value": "57 °C (A1R)"
+    },
+    {
+      "label": "Operating voltage",
+      "value": "9–30 V DC"
+    },
+    {
+      "label": "Coverage",
+      "value": "Up to 50 m² (subject to layout)"
+    },
+    {
+      "label": "Types",
+      "value": "Conventional and addressable"
+    }
+  ],
+  "tags": [
+    "heat detector",
+    "rate of rise",
+    "kitchen",
+    "boiler room",
+    "dusty"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "nfpa-alignment",
+  "name": "NFPA Code Alignment",
+  "issuer": "SAMPLE — National Fire Protection Association reference",
+  "reference": "SAMPLE-NFPA-0000",
+  "scope": "Installation and servicing practices aligned to NFPA 10 and NFPA 25 guidance.",
+  "validUntil": "N/A — ongoing practice alignment",
+  "logo": "/placeholders/generic.svg"
+}

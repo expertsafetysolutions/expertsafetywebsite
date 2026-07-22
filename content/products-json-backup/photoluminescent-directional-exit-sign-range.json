@@ -1,0 +1,39 @@
+{
+  "slug": "photoluminescent-directional-exit-sign-range",
+  "name": "Photoluminescent Directional Exit Sign Range",
+  "category": "fire-safety-signage",
+  "sku": "GD-SERIES",
+  "featured": true,
+  "shortDescription": "Glow-in-the-dark exit and directional signage sized to statutory viewing distance.",
+  "longDescription": "Photoluminescent signs charge under normal lighting and glow intensely if mains and emergency lighting both fail, guiding occupants to the nearest exit purely from stored light — no battery or wiring required. Available across the full directional range (straight exit, left/right arrows, stairs up/down, fire exit, push-bar-to-open, floor numbering, no entry) in sizes matched to the room's viewing distance, and in four materials (flexible sheet for curved surfaces, rigid sheet, aluminium for outdoor durability, PVC foam) so the same sign range works indoors and outdoors.",
+  "images": [
+    {
+      "src": "/placeholders/fire-safety-signage.svg",
+      "alt": "Photoluminescent Directional Exit Sign Range supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Sizes",
+      "value": "100x300mm (5m viewing distance), 150x400mm (8m viewing distance)"
+    },
+    {
+      "label": "Materials",
+      "value": "Flexible sheet, rigid sheet, aluminium, PVC foam"
+    },
+    {
+      "label": "Fixing",
+      "value": "Self-adhesive — no drilling or screws"
+    },
+    {
+      "label": "Standards",
+      "value": "IS 9457, IS 12349, NFPA 101, ISO 15370, BS 5499-1, DIN 67510"
+    }
+  ],
+  "tags": [
+    "exit sign",
+    "photoluminescent",
+    "directional signage",
+    "glow in the dark"
+  ]
+}

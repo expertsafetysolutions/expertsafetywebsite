@@ -1,0 +1,43 @@
+{
+  "slug": "convex-traffic-safety-mirror",
+  "name": "Convex Traffic Safety Mirror",
+  "category": "road-traffic-safety",
+  "sku": "ESS-RD-MIR-01",
+  "featured": false,
+  "shortDescription": "Wide-angle mirror for blind-spot visibility at internal road junctions and loading bays.",
+  "longDescription": "Warehouse aisles, loading bay entrances and factory internal junctions often hide oncoming forklifts and vehicles around a blind corner. A pole or wall-mounted polycarbonate convex mirror gives drivers and pedestrians a wide-angle view around that corner well before they reach it — a low-cost fix that materially cuts internal traffic incidents on sites running mixed pedestrian and vehicle movement. Supplied across four sizes to match the corridor width and viewing distance.",
+  "images": [
+    {
+      "src": "/placeholders/road-traffic-safety.svg",
+      "alt": "Convex Traffic Safety Mirror supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Sizes",
+      "value": "18\" (450mm), 24\" (600mm), 32\" (800mm), 40\" (1000mm)"
+    },
+    {
+      "label": "Material",
+      "value": "Polycarbonate, UV-stabilised, shatter-resistant"
+    },
+    {
+      "label": "Mounting",
+      "value": "Pole or wall bracket"
+    },
+    {
+      "label": "Viewing angle",
+      "value": "≈ 160°"
+    },
+    {
+      "label": "Typical use",
+      "value": "Warehouse aisles, loading bays, factory junctions"
+    }
+  ],
+  "tags": [
+    "convex mirror",
+    "blind spot",
+    "loading bay",
+    "internal traffic"
+  ]
+}

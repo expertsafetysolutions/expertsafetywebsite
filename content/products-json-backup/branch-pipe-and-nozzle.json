@@ -1,0 +1,44 @@
+{
+  "slug": "branch-pipe-and-nozzle",
+  "name": "Branch Pipe & Nozzle",
+  "category": "fire-hydrant-systems",
+  "sku": "ESS-HYD-BRN-01",
+  "featured": false,
+  "shortDescription": "Gunmetal branch with interchangeable jet and spray nozzles.",
+  "longDescription": "The branch pipe converts hose flow into a directed jet or spray pattern. Supplied in gunmetal or aluminium with an instantaneous inlet coupling to match standard 63 mm hose, and interchangeable nozzle tips so a single branch covers both jet reach and spray cooling duties.",
+  "images": [
+    {
+      "src": "/placeholders/fire-hydrant-systems.svg",
+      "alt": "Branch Pipe & Nozzle supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Inlet",
+      "value": "63 mm instantaneous"
+    },
+    {
+      "label": "Nozzle sizes",
+      "value": "16 mm, 20 mm interchangeable"
+    },
+    {
+      "label": "Material",
+      "value": "Gunmetal / aluminium"
+    },
+    {
+      "label": "Pattern",
+      "value": "Jet and spray"
+    },
+    {
+      "label": "Standard",
+      "value": "IS 903"
+    }
+  ],
+  "tags": [
+    "branch pipe",
+    "nozzle",
+    "jet",
+    "spray",
+    "is 903"
+  ]
+}

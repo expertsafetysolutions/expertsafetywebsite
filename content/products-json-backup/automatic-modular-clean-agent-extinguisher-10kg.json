@@ -1,0 +1,58 @@
+{
+  "slug": "automatic-modular-clean-agent-extinguisher-10kg",
+  "name": "Automatic Modular Clean Agent Extinguisher — 10 kg",
+  "category": "fire-extinguishers",
+  "sku": "KMCRQ-10",
+  "featured": false,
+  "shortDescription": "Ceiling-mounted self-actuating clean agent unit for unattended electrical enclosures.",
+  "longDescription": "A self-contained, ceiling-mounted extinguisher that needs no detection panel, wiring or external power — the unit activates automatically when ambient heat reaches its trigger point, discharging UL-listed FE-36 clean agent directly onto the protected zone below. Built for switchgear rooms, server racks, sensitive data storage and other unattended spaces that need round-the-clock protection between site visits. Reusable cylinder (not aerosol-based), so it's serviced and recharged rather than replaced.",
+  "images": [
+    {
+      "src": "/placeholders/fire-extinguishers.svg",
+      "alt": "Automatic Modular Clean Agent Extinguisher — 10 kg supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Capacity",
+      "value": "10 kg"
+    },
+    {
+      "label": "Mounting",
+      "value": "Ceiling mounted"
+    },
+    {
+      "label": "Extinguishing media",
+      "value": "FE-36 clean agent (HFC-236fa)"
+    },
+    {
+      "label": "Discharge time",
+      "value": "10–15 seconds"
+    },
+    {
+      "label": "Recommended hanging height",
+      "value": "1.75–2.25 m"
+    },
+    {
+      "label": "Area protection",
+      "value": "4–5 m²"
+    },
+    {
+      "label": "Approval",
+      "value": "CE, UL Listed FE-36"
+    },
+    {
+      "label": "Also available in",
+      "value": "2, 5, 15 kg"
+    }
+  ],
+  "tags": [
+    "automatic",
+    "modular",
+    "clean agent",
+    "ceiling mounted",
+    "unattended",
+    "server room",
+    "kanex"
+  ]
+}

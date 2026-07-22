@@ -1,0 +1,31 @@
+{
+  "slug": "first-aid-box-10x4x12",
+  "name": "First Aid Box — 10 x 4 x 12 Inch (Empty)",
+  "category": "first-aid-kits",
+  "sku": "ESS-FAK-BOX-10412",
+  "featured": false,
+  "shortDescription": "Compact empty first aid box, 10 x 4 x 12 inch, for wall mounting at a workstation or office.",
+  "longDescription": "A compact empty first aid enclosure suited to a single workstation, small office or reception area, with a lockable front and clear FIRST AID branding for visibility.",
+  "images": [
+    {
+      "src": "/placeholders/first-aid-kits.svg",
+      "alt": "First Aid Box — 10 x 4 x 12 Inch (Empty) supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Size",
+      "value": "10 x 4 x 12 inch"
+    },
+    {
+      "label": "Supply",
+      "value": "Empty box only (contents sold separately)"
+    }
+  ],
+  "tags": [
+    "first aid box",
+    "empty box",
+    "wall mount",
+    "office"
+  ]
+}

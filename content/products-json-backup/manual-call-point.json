@@ -1,0 +1,44 @@
+{
+  "slug": "manual-call-point",
+  "name": "Manual Call Point",
+  "category": "fire-alarm-detection",
+  "sku": "ESS-ALM-MCP-01",
+  "featured": false,
+  "shortDescription": "Resettable break-glass call point for manual alarm activation.",
+  "longDescription": "Manual call points let anyone raise the alarm immediately on discovering a fire. This resettable unit uses a plastic operating element rather than real glass, so it can be tested and reset with a key instead of replacing a broken pane — a meaningful saving across a site with dozens of points.",
+  "images": [
+    {
+      "src": "/placeholders/fire-alarm-detection.svg",
+      "alt": "Manual Call Point supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Type",
+      "value": "Resettable, key-operated reset"
+    },
+    {
+      "label": "Element",
+      "value": "Plastic operating element (no glass)"
+    },
+    {
+      "label": "Operating voltage",
+      "value": "9–30 V DC"
+    },
+    {
+      "label": "Mounting",
+      "value": "Surface or flush"
+    },
+    {
+      "label": "Ingress protection",
+      "value": "IP24D (indoor)"
+    }
+  ],
+  "tags": [
+    "call point",
+    "break glass",
+    "manual",
+    "mcp",
+    "alarm"
+  ]
+}

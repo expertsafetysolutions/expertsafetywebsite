@@ -1,0 +1,56 @@
+{
+  "slug": "dry-chemical-powder-filling-machine",
+  "name": "Dry Chemical Powder Filling & Refilling Machine",
+  "category": "industrial-tools",
+  "sku": "PMACHINE-002",
+  "featured": false,
+  "shortDescription": "Automatic dust-free machine for emptying, sieving and refilling fire extinguisher powder.",
+  "longDescription": "Refilling a fire extinguisher by hand risks powder spillage and airborne dust in the workshop. This automatic filling and emptying machine handles both operations dust-free, drawing spent DCP powder out of a discharged cylinder, sieving it through diagonally positioned pipes to retain lumps and contamination, and refilling extinguishers via an electronic scale that stops automatically at the preset fill weight. Inner storage holds up to 30 kg as standard, with 50–250 kg storage tanks available for workshops handling higher volumes, and it services portable extinguishers from 1–12 kg with cutoff, or larger units up to 250 kg without. Used in our own AMC and refilling workshop to keep annual servicing turnaround fast and consistent.",
+  "images": [
+    {
+      "src": "/placeholders/industrial-tools.svg",
+      "alt": "Dry Chemical Powder Filling & Refilling Machine supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Function",
+      "value": "Emptying, sieving and filling of DCP fire extinguisher powder"
+    },
+    {
+      "label": "Filling capacity",
+      "value": "18 kg / minute"
+    },
+    {
+      "label": "Inner storage",
+      "value": "Up to 30 kg (50–250 kg tank optional)"
+    },
+    {
+      "label": "Max height of work",
+      "value": "≈ 1.6 m"
+    },
+    {
+      "label": "Motor",
+      "value": "400 V / 1.5 kW / 50 Hz"
+    },
+    {
+      "label": "Filter cleaning",
+      "value": "Automatic — Air-Matic feature"
+    },
+    {
+      "label": "Operation",
+      "value": "Vibration-free, electronic scale with preset cutoff"
+    },
+    {
+      "label": "Also available",
+      "value": "Manual/semi-automatic model, 12 kg storage, 230V/10A motor"
+    }
+  ],
+  "tags": [
+    "powder filling machine",
+    "extinguisher refilling",
+    "amc",
+    "workshop equipment",
+    "kanex"
+  ]
+}

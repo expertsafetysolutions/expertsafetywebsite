@@ -1,0 +1,31 @@
+{
+  "slug": "splint-set",
+  "name": "Splint Set",
+  "category": "first-aid-kits",
+  "sku": "ESS-FAK-SPLINT",
+  "featured": false,
+  "shortDescription": "Wooden splint set with bandages in a carry pouch, for on-site fracture immobilisation.",
+  "longDescription": "A set of wooden splints in graduated sizes with accompanying bandages, packed in a red carry pouch for quick access. Used to immobilise a suspected fracture before the casualty can reach medical care — a standard addition alongside our larger workplace and industrial first aid kits.",
+  "images": [
+    {
+      "src": "/placeholders/first-aid-kits.svg",
+      "alt": "Splint Set supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Contents",
+      "value": "Wooden splints (assorted sizes) with bandages"
+    },
+    {
+      "label": "Carry case",
+      "value": "Red pouch, compartmented"
+    }
+  ],
+  "tags": [
+    "splint",
+    "fracture",
+    "immobilisation",
+    "wooden splint"
+  ]
+}

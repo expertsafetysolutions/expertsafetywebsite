@@ -1,0 +1,45 @@
+{
+  "slug": "heat-resistant-aramid-gloves",
+  "name": "Heat-Resistant Aramid Gloves",
+  "category": "safety-gloves",
+  "sku": "ESS-GLV-HEAT-01",
+  "featured": false,
+  "shortDescription": "Aramid-fibre gloves rated for sustained contact heat up to 250 °C.",
+  "longDescription": "Aramid gloves protect against contact and radiant heat in foundries, furnace rooms, welding bays and boiler maintenance. The aramid knit resists charring and retains strength at temperature, with an extended cuff option to protect the wrist and forearm.",
+  "images": [
+    {
+      "src": "/placeholders/safety-gloves.svg",
+      "alt": "Heat-Resistant Aramid Gloves supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Contact heat",
+      "value": "Up to 250 °C"
+    },
+    {
+      "label": "Material",
+      "value": "Aramid fibre knit"
+    },
+    {
+      "label": "Cuff",
+      "value": "Standard or extended (35 cm)"
+    },
+    {
+      "label": "Sizes",
+      "value": "9, 10, 11"
+    },
+    {
+      "label": "Standard",
+      "value": "EN 407 heat and flame"
+    }
+  ],
+  "tags": [
+    "heat resistant",
+    "aramid",
+    "kevlar",
+    "foundry",
+    "welding",
+    "en 407"
+  ]
+}

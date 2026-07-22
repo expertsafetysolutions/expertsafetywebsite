@@ -1,0 +1,43 @@
+{
+  "slug": "adjustable-cable-lockout",
+  "name": "Adjustable Cable Lockout",
+  "category": "lockout-tagout",
+  "sku": "EXPERT-SH-ASCL",
+  "featured": false,
+  "shortDescription": "ABS-bodied cable lockout for multiple circuit breaker panels and gate valves.",
+  "longDescription": "A flexible multi-stranded steel cable with clear plastic insulation threads through side-by-side breaker panels or gate valves and locks into an ABS body that resists chemical exposure. Accepts up to 4 padlocks for shared multi-technician lockout, with high-visibility, write-on safety labels included so every lock is traceable to the person who applied it.",
+  "images": [
+    {
+      "src": "/placeholders/lockout-tagout.svg",
+      "alt": "Adjustable Cable Lockout supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Lock body",
+      "value": "ABS, chemical-resistant"
+    },
+    {
+      "label": "Cable",
+      "value": "4mm dia., multi-stranded steel with insulation"
+    },
+    {
+      "label": "Standard length",
+      "value": "2 m (customisable)"
+    },
+    {
+      "label": "Locking capacity",
+      "value": "Up to 4 padlocks"
+    },
+    {
+      "label": "Includes",
+      "value": "Re-usable write-on safety labels"
+    }
+  ],
+  "tags": [
+    "adjustable cable lockout",
+    "circuit breaker panel",
+    "gate valve lockout",
+    "loto"
+  ]
+}

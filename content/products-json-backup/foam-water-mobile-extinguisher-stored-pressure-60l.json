@@ -1,0 +1,56 @@
+{
+  "slug": "foam-water-mobile-extinguisher-stored-pressure-60l",
+  "name": "Foam & Water Mobile Extinguisher — Stored Pressure, 60 Litre",
+  "category": "fire-extinguishers",
+  "sku": "KFMSRQ-60",
+  "featured": false,
+  "shortDescription": "Wheeled 60-litre stored-pressure foam extinguisher with a spray nozzle for high fire ratings.",
+  "longDescription": "The stored-pressure counterpart to the cartridge-type mobile foam extinguisher — pressurised with nitrogen at the works rather than by a field cartridge, and fitted with a spray nozzle to lift the effective fire rating. A 300 mm stainless steel protection spring on the PVC braided hose keeps it flexible under repeated deployment. Suited to loading bays, tank farms and production halls needing large-volume Class A/B cover on wheels. Not for use on electrical fires.",
+  "images": [
+    {
+      "src": "/placeholders/fire-extinguishers.svg",
+      "alt": "Foam & Water Mobile Extinguisher — Stored Pressure, 60 Litre supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Capacity",
+      "value": "60 litre"
+    },
+    {
+      "label": "Fire rating",
+      "value": "20A : 233B*"
+    },
+    {
+      "label": "Discharge time",
+      "value": "min. 30 seconds"
+    },
+    {
+      "label": "Range of throw",
+      "value": "min. 9 m"
+    },
+    {
+      "label": "Expelling agent",
+      "value": "Nitrogen (UHP grade)"
+    },
+    {
+      "label": "Empty / full / shipping weight",
+      "value": "48 / 108 / 115 kg"
+    },
+    {
+      "label": "Approval",
+      "value": "BIS (water type)"
+    },
+    {
+      "label": "Also available in",
+      "value": "45 litre"
+    }
+  ],
+  "tags": [
+    "mobile extinguisher",
+    "trolley",
+    "foam",
+    "stored pressure",
+    "kanex"
+  ]
+}

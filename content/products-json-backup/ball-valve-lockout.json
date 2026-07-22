@@ -1,0 +1,38 @@
+{
+  "slug": "ball-valve-lockout",
+  "name": "Ball Valve Lockout",
+  "category": "lockout-tagout",
+  "sku": "EXPERT-SH-BV01-ST",
+  "featured": false,
+  "shortDescription": "Clamps over a ball valve handle to block operation during maintenance.",
+  "longDescription": "Locks over the handle of a ball valve so it can't be turned while a line is isolated for maintenance. The standard model covers valves from 9.5mm to 31.5mm (3/8\" to 1¼\"); long-open and double-leg variants extend coverage up to 2½\" (63.5mm), with optional side extensions for awkward handle geometries.",
+  "images": [
+    {
+      "src": "/placeholders/lockout-tagout.svg",
+      "alt": "Ball Valve Lockout supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Valve range",
+      "value": "9.5–31.5mm standard (up to 63.5mm with LL / double-leg variants)"
+    },
+    {
+      "label": "Style",
+      "value": "Standard, long-open, double-leg"
+    },
+    {
+      "label": "Extensions",
+      "value": "Side extension attachment available"
+    },
+    {
+      "label": "Larger model",
+      "value": "Covers 2\"–8\" (50.8–203.2mm) valves"
+    }
+  ],
+  "tags": [
+    "ball valve lockout",
+    "valve isolation",
+    "loto"
+  ]
+}

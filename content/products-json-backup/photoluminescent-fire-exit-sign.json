@@ -1,0 +1,44 @@
+{
+  "slug": "photoluminescent-fire-exit-sign",
+  "name": "Photoluminescent Fire Exit Sign",
+  "category": "fire-safety-signage",
+  "sku": "ESS-SGN-EXT-01",
+  "featured": true,
+  "shortDescription": "Glow-in-the-dark directional exit signage, readable in total smoke-out.",
+  "longDescription": "Photoluminescent signage charges under normal lighting and stays visible for hours after power loss — a requirement for escape routes in most industrial fire NOC conditions. Printed on rigid non-toxic substrate with a high-luminance pigment, available in left, right, up and down arrow variants plus running-man pictograms.",
+  "images": [
+    {
+      "src": "/placeholders/fire-safety-signage.svg",
+      "alt": "Photoluminescent Fire Exit Sign supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Material",
+      "value": "Rigid photoluminescent PVC / autoglow"
+    },
+    {
+      "label": "Standard sizes",
+      "value": "150×450 mm, 200×600 mm"
+    },
+    {
+      "label": "Luminance",
+      "value": "Class C, visible up to 8 hours"
+    },
+    {
+      "label": "Mounting",
+      "value": "Adhesive backing or screw-fix"
+    },
+    {
+      "label": "Compliance",
+      "value": "IS 12349 / ISO 7010 pictograms"
+    }
+  ],
+  "tags": [
+    "exit",
+    "photoluminescent",
+    "autoglow",
+    "escape route",
+    "iso 7010"
+  ]
+}

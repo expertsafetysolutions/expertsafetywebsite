@@ -1,0 +1,44 @@
+{
+  "slug": "industrial-safety-helmet",
+  "name": "Industrial Safety Helmet",
+  "category": "personal-protective-equipment",
+  "sku": "ESS-PPE-HLM-01",
+  "featured": true,
+  "shortDescription": "Ratchet-adjust hard hat with optional chin strap and accessory slots.",
+  "longDescription": "A HDPE shell hard hat with a ratchet harness for quick, secure adjustment across a shift. Universal accessory slots accept earmuffs and visors so one helmet covers multiple risk profiles. Available in a range of colours for role or contractor colour-coding across a site.",
+  "images": [
+    {
+      "src": "/placeholders/personal-protective-equipment.svg",
+      "alt": "Industrial Safety Helmet supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Shell material",
+      "value": "HDPE"
+    },
+    {
+      "label": "Harness",
+      "value": "6-point textile, ratchet adjustment"
+    },
+    {
+      "label": "Accessories",
+      "value": "Universal 30 mm slots"
+    },
+    {
+      "label": "Colours",
+      "value": "White, yellow, blue, red, green"
+    },
+    {
+      "label": "Standard",
+      "value": "IS 2925 / EN 397"
+    }
+  ],
+  "tags": [
+    "helmet",
+    "hard hat",
+    "head protection",
+    "ratchet",
+    "en 397"
+  ]
+}

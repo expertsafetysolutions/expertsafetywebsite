@@ -1,0 +1,44 @@
+{
+  "slug": "high-ankle-safety-boots",
+  "name": "High-Ankle Safety Boots",
+  "category": "safety-footwear",
+  "sku": "ESS-FTW-HIA-01",
+  "featured": false,
+  "shortDescription": "High-ankle boot with steel toe and midsole for uneven site terrain.",
+  "longDescription": "High-ankle boots add ankle support over loose, uneven or elevated terrain — construction sites, scrapyards and outdoor plant areas — while keeping the same steel toe and puncture-resistant midsole protection as our standard safety shoe range.",
+  "images": [
+    {
+      "src": "/placeholders/safety-footwear.svg",
+      "alt": "High-Ankle Safety Boots supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Toe cap",
+      "value": "Steel, 200 J impact rated"
+    },
+    {
+      "label": "Ankle height",
+      "value": "High-ankle, lace-up"
+    },
+    {
+      "label": "Midsole",
+      "value": "Puncture-resistant"
+    },
+    {
+      "label": "Outsole",
+      "value": "Oil and slip-resistant rubber"
+    },
+    {
+      "label": "Standard",
+      "value": "IS 15298 / EN ISO 20345 S3"
+    }
+  ],
+  "tags": [
+    "safety boots",
+    "high ankle",
+    "steel toe",
+    "construction site",
+    "en iso 20345"
+  ]
+}

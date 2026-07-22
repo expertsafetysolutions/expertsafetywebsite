@@ -1,0 +1,39 @@
+{
+  "slug": "fire-fighting-equipment-identification-sign-set",
+  "name": "Fire-Fighting Equipment Identification Sign Set",
+  "category": "fire-safety-signage",
+  "sku": "GF-SERIES",
+  "featured": false,
+  "shortDescription": "Photoluminescent ID signs marking extinguishers, hydrants, hose reels and alarm points.",
+  "longDescription": "Marks every piece of fire-fighting equipment on a floor plan so it can be found at a glance during an emergency — fire extinguisher (by type: ABC powder, foam, water, CO2, wet chemical, fire blanket), fire alarm call point, hose reel, hydrant, fire point, fire pump, hose box, hooter, alarm panel and control panel identification signs in a consistent photoluminescent format.",
+  "images": [
+    {
+      "src": "/placeholders/fire-safety-signage.svg",
+      "alt": "Fire-Fighting Equipment Identification Sign Set supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Covers",
+      "value": "Extinguisher (by agent type), call point, hose reel, hydrant, fire point, pump, hose box, hooter, alarm panel"
+    },
+    {
+      "label": "Sizes",
+      "value": "100x300mm and 150x150mm / 200x250mm formats"
+    },
+    {
+      "label": "Material",
+      "value": "Photoluminescent, self-adhesive"
+    },
+    {
+      "label": "Standards",
+      "value": "IS 12349, NFPA life safety code 101/101B"
+    }
+  ],
+  "tags": [
+    "fire equipment signage",
+    "extinguisher identification",
+    "hydrant sign",
+    "fire point sign"
+  ]
+}

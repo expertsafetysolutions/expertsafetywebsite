@@ -1,0 +1,44 @@
+{
+  "slug": "folding-safety-barricade",
+  "name": "Folding Safety Barricade",
+  "category": "road-traffic-safety",
+  "sku": "ESS-RD-BAR-01",
+  "featured": false,
+  "shortDescription": "Portable folding barricade for temporary access control and cordoning.",
+  "longDescription": "A lightweight, folding barricade for cordoning off maintenance areas, wet floors or restricted zones during inspections and installation work. Folds flat for storage and transport between sites, with a high-visibility red and white finish.",
+  "images": [
+    {
+      "src": "/placeholders/road-traffic-safety.svg",
+      "alt": "Folding Safety Barricade supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Material",
+      "value": "HDPE / steel frame"
+    },
+    {
+      "label": "Finish",
+      "value": "Red & white high-visibility"
+    },
+    {
+      "label": "Format",
+      "value": "Folding, portable"
+    },
+    {
+      "label": "Length",
+      "value": "2 m (extendable in sets)"
+    },
+    {
+      "label": "Use case",
+      "value": "Temporary access control"
+    }
+  ],
+  "tags": [
+    "barricade",
+    "folding",
+    "access control",
+    "cordon",
+    "portable"
+  ]
+}

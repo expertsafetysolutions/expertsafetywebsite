@@ -1,0 +1,38 @@
+{
+  "slug": "abs-road-stud",
+  "name": "ABS Road Stud",
+  "category": "road-traffic-safety",
+  "sku": "ESS-RD-STUD-01",
+  "featured": false,
+  "shortDescription": "Two-way prismatic reflective road stud for lane and edge marking.",
+  "longDescription": "A low-profile, bolt-down ABS road stud with a two-way acrylic prismatic reflector, marking lane edges and road centrelines so they stay visible to headlights from both directions of travel.",
+  "images": [
+    {
+      "src": "/placeholders/road-traffic-safety.svg",
+      "alt": "ABS Road Stud supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Size",
+      "value": "100 x 90 x 18 mm"
+    },
+    {
+      "label": "Reflector",
+      "value": "Two-way acrylic prismatic"
+    },
+    {
+      "label": "Colours",
+      "value": "Yellow, white, red"
+    },
+    {
+      "label": "Material",
+      "value": "ABS body"
+    }
+  ],
+  "tags": [
+    "road stud",
+    "cat's eye",
+    "lane marking"
+  ]
+}

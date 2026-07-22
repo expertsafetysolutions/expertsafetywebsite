@@ -1,0 +1,42 @@
+{
+  "slug": "lockable-lockout-tagout-station",
+  "name": "Lockable Lockout-Tagout Station",
+  "category": "lockout-tagout",
+  "sku": "EXPERT-SH-LS-PCB",
+  "featured": true,
+  "shortDescription": "Wall-mounted cabinet keeping every hasp, padlock and tag for a work area in one place.",
+  "longDescription": "A powder-coated steel cabinet with a transparent acrylic front and its own lock, giving a work area a single, visible point for all lockout hardware — hooks for padlocks and hasps, pockets for tags and ties, and adjustable shelving for bulkier items. Supplied empty or pre-stocked with a standard set (padlocks, hasps, tags, ties, cable lockout, breaker lockouts). Sizes range from small 14\"x16\" wall stations up to large 30\"x15\" multi-shelf cabinets.",
+  "images": [
+    {
+      "src": "/placeholders/lockout-tagout.svg",
+      "alt": "Lockable Lockout-Tagout Station supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Body",
+      "value": "Powder-coated MS sheet, transparent acrylic front"
+    },
+    {
+      "label": "Sizes",
+      "value": "14\"x16\"x3\" up to 30\"x15\"x9\" (larger sizes available)"
+    },
+    {
+      "label": "Colours",
+      "value": "Yellow, Red, Grey"
+    },
+    {
+      "label": "Fill options",
+      "value": "Empty, or pre-stocked with padlocks/hasps/tags/ties"
+    },
+    {
+      "label": "Mounting",
+      "value": "Wall-mounted, lockable"
+    }
+  ],
+  "tags": [
+    "lockout station",
+    "loto cabinet",
+    "wall station"
+  ]
+}

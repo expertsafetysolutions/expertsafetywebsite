@@ -1,0 +1,44 @@
+{
+  "slug": "optical-smoke-detector",
+  "name": "Optical Smoke Detector",
+  "category": "fire-alarm-detection",
+  "sku": "ESS-ALM-SMK-01",
+  "featured": true,
+  "shortDescription": "Photoelectric detector for early warning on smouldering fires.",
+  "longDescription": "Optical (photoelectric) smoke detectors respond quickly to the large smoke particles produced by smouldering fires — the typical failure mode in offices, stores and cable voids. Available in conventional and addressable versions with a common mounting base, and supplied with drift compensation to reduce false alarms as the chamber ages.",
+  "images": [
+    {
+      "src": "/placeholders/fire-alarm-detection.svg",
+      "alt": "Optical Smoke Detector supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Detection principle",
+      "value": "Photoelectric / optical scatter"
+    },
+    {
+      "label": "Operating voltage",
+      "value": "9–30 V DC"
+    },
+    {
+      "label": "Coverage",
+      "value": "Up to 100 m² (subject to layout)"
+    },
+    {
+      "label": "Types",
+      "value": "Conventional and addressable"
+    },
+    {
+      "label": "Indication",
+      "value": "360° LED alarm indicator"
+    }
+  ],
+  "tags": [
+    "smoke detector",
+    "optical",
+    "photoelectric",
+    "addressable",
+    "detection"
+  ]
+}

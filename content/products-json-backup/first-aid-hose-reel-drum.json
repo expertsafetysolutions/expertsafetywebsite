@@ -1,0 +1,44 @@
+{
+  "slug": "first-aid-hose-reel-drum",
+  "name": "First-Aid Hose Reel Drum",
+  "category": "fire-hydrant-systems",
+  "sku": "ESS-HYD-REEL-01",
+  "featured": false,
+  "shortDescription": "Swinging-arm hose reel for immediate first-aid firefighting.",
+  "longDescription": "A first-aid hose reel gives untrained occupants a controllable water supply within seconds of discovering a fire, without needing to run out a full delivery hose. Fabricated in MS with an epoxy red finish and a swinging arm so the reel can be pulled clear of the wall and directed at the fire.",
+  "images": [
+    {
+      "src": "/placeholders/fire-hydrant-systems.svg",
+      "alt": "First-Aid Hose Reel Drum supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Hose length",
+      "value": "30 m"
+    },
+    {
+      "label": "Hose bore",
+      "value": "19 mm / 20 mm"
+    },
+    {
+      "label": "Drum material",
+      "value": "Mild steel, epoxy powder-coated"
+    },
+    {
+      "label": "Mounting",
+      "value": "Wall-mounted swinging arm"
+    },
+    {
+      "label": "Standard",
+      "value": "IS 884"
+    }
+  ],
+  "tags": [
+    "hose reel",
+    "first aid",
+    "drum",
+    "swinging arm",
+    "is 884"
+  ]
+}

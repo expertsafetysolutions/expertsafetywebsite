@@ -1,0 +1,38 @@
+{
+  "slug": "solar-road-stud",
+  "name": "Solar Road Stud",
+  "category": "road-traffic-safety",
+  "sku": "ESS-RD-STUD-02",
+  "featured": true,
+  "shortDescription": "Solar-powered LED road stud, self-illuminating for night-time lane marking.",
+  "longDescription": "An active alternative to a plain reflective stud — an internal solar panel charges six LEDs through the day, self-illuminating the stud after dark without any external wiring or power run, for lane markers, junctions and hazard points that need to stay visible even where street lighting is poor.",
+  "images": [
+    {
+      "src": "/placeholders/road-traffic-safety.svg",
+      "alt": "Solar Road Stud supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Sizes",
+      "value": "107x95x24mm, 115x100x25mm"
+    },
+    {
+      "label": "Body",
+      "value": "Aluminium with solar panel"
+    },
+    {
+      "label": "LEDs",
+      "value": "6 LED lights"
+    },
+    {
+      "label": "Use case",
+      "value": "Night-time lane and hazard marking, no external power needed"
+    }
+  ],
+  "tags": [
+    "solar road stud",
+    "led road stud",
+    "lane marking"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "iso-45001",
+  "name": "ISO 45001:2018 — Occupational Health & Safety",
+  "issuer": "SAMPLE Certification Body",
+  "reference": "SAMPLE-ISO45001-0000",
+  "scope": "Occupational health and safety management across service delivery operations.",
+  "validUntil": "SAMPLE — replace with real validity date",
+  "logo": "/placeholders/generic.svg"
+}

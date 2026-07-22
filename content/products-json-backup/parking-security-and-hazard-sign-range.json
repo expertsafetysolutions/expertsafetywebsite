@@ -1,0 +1,39 @@
+{
+  "slug": "parking-security-and-hazard-sign-range",
+  "name": "Parking, Security & Hazard Sign Range",
+  "category": "fire-safety-signage",
+  "sku": "G-MIXED",
+  "featured": false,
+  "shortDescription": "No parking, CCTV, danger, electrical and general hazard signage for site perimeters.",
+  "longDescription": "General facility signage beyond fire safety — no parking discs, CCTV-in-operation notices, danger/hazard warning triangles, no smoking, high-voltage electrical warnings and floor numbering — printed on the same durable, self-adhesive material as the fire safety range, for consistent signage across an entire site.",
+  "images": [
+    {
+      "src": "/placeholders/fire-safety-signage.svg",
+      "alt": "Parking, Security & Hazard Sign Range supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Covers",
+      "value": "No parking, CCTV notice, danger triangle, no smoking, high-voltage warning, floor number"
+    },
+    {
+      "label": "Sizes",
+      "value": "200x250mm to 450x600mm (by sign type)"
+    },
+    {
+      "label": "Fixing",
+      "value": "Self-adhesive, no drilling"
+    },
+    {
+      "label": "Material",
+      "value": "Rigid sheet / aluminium"
+    }
+  ],
+  "tags": [
+    "parking sign",
+    "security sign",
+    "hazard warning",
+    "cctv sign"
+  ]
+}

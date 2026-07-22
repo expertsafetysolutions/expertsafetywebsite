@@ -1,0 +1,40 @@
+{
+  "slug": "first-aid-kit-sjf-t1a",
+  "name": "First Aid Kit — SJF T1A (E-Rickshaw & Small Vehicle)",
+  "category": "first-aid-kits",
+  "sku": "ESS-FAK-T1A",
+  "featured": false,
+  "shortDescription": "Compact single-person plastic case kit sized for e-rickshaws and small vehicles.",
+  "longDescription": "A pocket-sized plastic case kit built for the glovebox of an e-rickshaw or small vehicle — enough to handle a minor cut or burn on the move, with a first aid instruction sheet included for anyone unfamiliar with the contents.",
+  "images": [
+    {
+      "src": "/placeholders/first-aid-kits.svg",
+      "alt": "First Aid Kit — SJF T1A (E-Rickshaw & Small Vehicle) supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Suitable For",
+      "value": "1 person"
+    },
+    {
+      "label": "M.R.P.",
+      "value": "₹200 (incl. of taxes)"
+    },
+    {
+      "label": "Housing",
+      "value": "Plastic case, 13 x 8.5 x 3.5 cm"
+    },
+    {
+      "label": "Contents",
+      "value": "Adhesive Plaster 19x72mm x2, Elastic Adhesive Plaster 6x10cm, Cotton Roll 15gms x1, Antiseptic Cream 5gms x1, Elastic Gauze Bandage 6x1m x1, Antiseptic Lotion 50ml x1, Sterile Gauze Swab 5cm x1, Gauze Bandage 7.5cm x 2mtr x1, First Aid Instruction Sheet x1"
+    }
+  ],
+  "tags": [
+    "first aid kit",
+    "sjf t1a",
+    "e-rickshaw",
+    "small vehicle",
+    "1 person"
+  ]
+}

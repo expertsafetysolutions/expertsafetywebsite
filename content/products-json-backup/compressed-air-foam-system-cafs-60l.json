@@ -1,0 +1,66 @@
+{
+  "slug": "compressed-air-foam-system-cafs-60l",
+  "name": "Water Mist cum Compressed Air Foam System (CAFS) — 60 Litre",
+  "category": "fire-suppression-systems",
+  "sku": "KCAFSHQ-50",
+  "featured": false,
+  "shortDescription": "Trolley-mounted compressed air foam unit for large-area industrial and marine firefighting.",
+  "longDescription": "Compressed Air Foam Systems inject compressed air directly into the foam solution inside the valve head, producing a denser, more stable foam blanket than standard foam branch equipment. The result attacks the fire tetrahedron from multiple sides at once — smothering it with a foam blanket that keeps oxygen from reaching the fuel, cooling it with trapped air within the bubble structure, and reflecting radiant heat rather than absorbing it. Independent testing rates CAFS as 15 to 30 times more effective than water or foam solution alone. Electrically non-conductive in dry mode (tested and passed at 36 kV from 1 metre distance in an NABL-accredited laboratory), making it suitable around energised equipment. Specified for hospitals, industrial plants, power stations, offshore installations and marine use.",
+  "images": [
+    {
+      "src": "/placeholders/fire-suppression-systems.svg",
+      "alt": "Water Mist cum Compressed Air Foam System (CAFS) — 60 Litre supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Capacity",
+      "value": "60 litre (trolley mounted)"
+    },
+    {
+      "label": "Operating pressure",
+      "value": "12–15 bar (approx.)"
+    },
+    {
+      "label": "Operating time (wet / dry)",
+      "value": "125 sec / 270 sec"
+    },
+    {
+      "label": "Work range (wet / dry)",
+      "value": "13–14 m / 12–13 m"
+    },
+    {
+      "label": "Fire rating (EN)",
+      "value": "55A : 233B-IVB"
+    },
+    {
+      "label": "Length of hose",
+      "value": "5 m"
+    },
+    {
+      "label": "Propellant",
+      "value": "6 litre / 300 bar compressed air"
+    },
+    {
+      "label": "Weight (empty / filled)",
+      "value": "70 / 120 kg"
+    },
+    {
+      "label": "Approvals",
+      "value": "CE, ERDA / NABL-accredited lab certified"
+    },
+    {
+      "label": "Also available in",
+      "value": "9, 10, 100, 250 litre"
+    }
+  ],
+  "tags": [
+    "cafs",
+    "compressed air foam",
+    "marine",
+    "power plant",
+    "industrial",
+    "electrically tested",
+    "kanex"
+  ]
+}

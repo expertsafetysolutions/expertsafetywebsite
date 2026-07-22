@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Hydrant System placeholder image">
+  <rect width="640" height="480" fill="#EDEFF3"/>
+  <rect x="0.5" y="0.5" width="639" height="479" fill="none" stroke="#C6CDD9" stroke-width="1"/>
+  <g transform="translate(320 200)"><g fill="none" stroke="#111722" stroke-width="6" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="-24" y="-40" width="48" height="90" rx="10"/>
+    <path d="M-24 -10 h-26 M24 -10 h26 M-24 -10 l-16 -14 M24 -10 l16 -14"/>
+    <circle cx="0" cy="-58" r="14" fill="#D62410" stroke="none"/>
+    <path d="M-30 50 h60"/>
+  </g></g>
+  <text x="320" y="330" text-anchor="middle" font-family="ui-monospace, monospace" font-size="13" letter-spacing="2" fill="#111722" font-weight="600">HYDRANT SYSTEM</text>
+  <text x="320" y="356" text-anchor="middle" font-family="ui-monospace, monospace" font-size="11" letter-spacing="3" fill="#D62410">PLACEHOLDER IMAGE</text>
+</svg>

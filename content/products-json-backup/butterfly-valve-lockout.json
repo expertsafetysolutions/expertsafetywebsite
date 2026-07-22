@@ -1,0 +1,38 @@
+{
+  "slug": "butterfly-valve-lockout",
+  "name": "Butterfly Valve Lockout",
+  "category": "lockout-tagout",
+  "sku": "EXPERT-SH-BFVL",
+  "featured": false,
+  "shortDescription": "Slotted polypropylene cover that locks a butterfly valve lever in the closed position.",
+  "longDescription": "A UV-stabilised polypropylene lockout with 12 locking slots at the base and 6 at the top, fitting over a butterfly valve lever to hold it in the closed position across a range of handle angles until the padlock is removed.",
+  "images": [
+    {
+      "src": "/placeholders/lockout-tagout.svg",
+      "alt": "Butterfly Valve Lockout supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Material",
+      "value": "Polypropylene, UV colour-stable"
+    },
+    {
+      "label": "Locking slots",
+      "value": "12 (lower) + 6 (upper)"
+    },
+    {
+      "label": "Overall length",
+      "value": "300 mm"
+    },
+    {
+      "label": "Internal width",
+      "value": "48 mm (fits standard lever width)"
+    }
+  ],
+  "tags": [
+    "butterfly valve lockout",
+    "valve isolation",
+    "loto"
+  ]
+}

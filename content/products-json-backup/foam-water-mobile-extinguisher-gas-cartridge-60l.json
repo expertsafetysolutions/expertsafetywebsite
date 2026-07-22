@@ -1,0 +1,57 @@
+{
+  "slug": "foam-water-mobile-extinguisher-gas-cartridge-60l",
+  "name": "Foam & Water Mobile Extinguisher — Gas Cartridge, 60 Litre",
+  "category": "fire-extinguishers",
+  "sku": "KFMRQ-60",
+  "featured": false,
+  "shortDescription": "Wheeled 60-litre cartridge-type foam extinguisher for warehouses and fuel-handling yards.",
+  "longDescription": "A trolley-mounted, CO₂-cartridge-driven foam or water extinguisher for large-area Class A/B fire risk that a portable unit can't cover — fuel storage yards, warehouse aisles, plywood and paper stacking areas. The brass forged cap has an auto safety release mechanism, and the PVC braided hose carries a stainless steel protection spring over its full length to resist kinking during rapid deployment. Not for use on electrical fires.",
+  "images": [
+    {
+      "src": "/placeholders/fire-extinguishers.svg",
+      "alt": "Foam & Water Mobile Extinguisher — Gas Cartridge, 60 Litre supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Capacity",
+      "value": "60 litre"
+    },
+    {
+      "label": "Fire rating",
+      "value": "20A : 233B"
+    },
+    {
+      "label": "Discharge time",
+      "value": "min. 30 seconds"
+    },
+    {
+      "label": "Range of throw",
+      "value": "min. 9 m"
+    },
+    {
+      "label": "CO₂ gas cartridge",
+      "value": "300 gm"
+    },
+    {
+      "label": "Empty / full / shipping weight",
+      "value": "48 / 108 / 115 kg"
+    },
+    {
+      "label": "Approval",
+      "value": "BIS"
+    },
+    {
+      "label": "Also available in",
+      "value": "45, 90, 100, 135, 150 litre"
+    }
+  ],
+  "tags": [
+    "mobile extinguisher",
+    "trolley",
+    "foam",
+    "warehouse",
+    "fuel yard",
+    "kanex"
+  ]
+}

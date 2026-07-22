@@ -1,0 +1,44 @@
+{
+  "slug": "oblique-landing-valve-63mm",
+  "name": "Oblique Landing Valve — 63 mm",
+  "category": "fire-hydrant-systems",
+  "sku": "ESS-HYD-LV-63",
+  "featured": false,
+  "shortDescription": "Gunmetal hydrant outlet valve for wet and dry riser systems.",
+  "longDescription": "The landing valve is the controlled outlet where firefighters connect to a building's riser. Manufactured in gunmetal with an oblique body to ease hose connection in confined riser cupboards, supplied with blank cap and chain, and pressure-tested before dispatch.",
+  "images": [
+    {
+      "src": "/placeholders/fire-hydrant-systems.svg",
+      "alt": "Oblique Landing Valve — 63 mm supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Outlet size",
+      "value": "63 mm instantaneous"
+    },
+    {
+      "label": "Inlet",
+      "value": "80 mm flanged"
+    },
+    {
+      "label": "Body material",
+      "value": "Gunmetal"
+    },
+    {
+      "label": "Working pressure",
+      "value": "10 bar"
+    },
+    {
+      "label": "Standard",
+      "value": "IS 5290 Type A"
+    }
+  ],
+  "tags": [
+    "landing valve",
+    "hydrant",
+    "riser",
+    "gunmetal",
+    "is 5290"
+  ]
+}

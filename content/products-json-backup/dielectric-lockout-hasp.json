@@ -1,0 +1,43 @@
+{
+  "slug": "dielectric-lockout-hasp",
+  "name": "Dielectric (Non-Conductive) Lockout Hasp — 6-Hole",
+  "category": "lockout-tagout",
+  "sku": "EXPERT-SH-DIH-6",
+  "featured": false,
+  "shortDescription": "Non-conductive polymer hasp for safe lockout on live electrical panels.",
+  "longDescription": "Where metal hardware near live circuits is a hazard in itself, this hasp is moulded from flexible, lightweight, non-conductive polymer instead of steel — safe for electrical lockout applications where a metal hasp could conduct current or spark. Six holes allow group lockout, and dual-jaw scissor designs (25mm and 38mm) cover different padlock shackle sizes in one unit.",
+  "images": [
+    {
+      "src": "/placeholders/lockout-tagout.svg",
+      "alt": "Dielectric (Non-Conductive) Lockout Hasp — 6-Hole supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Locking capacity",
+      "value": "6 padlocks"
+    },
+    {
+      "label": "Material",
+      "value": "Non-conductive dielectric polymer"
+    },
+    {
+      "label": "Jaw sizes",
+      "value": "25mm and 38mm (dual-jaw versions available)"
+    },
+    {
+      "label": "Colour",
+      "value": "Red (other colours on bulk order)"
+    },
+    {
+      "label": "Use case",
+      "value": "Electrical panel and MCB lockout"
+    }
+  ],
+  "tags": [
+    "dielectric hasp",
+    "non-conductive",
+    "electrical lockout",
+    "loto"
+  ]
+}

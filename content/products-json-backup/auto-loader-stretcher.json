@@ -1,0 +1,31 @@
+{
+  "slug": "auto-loader-stretcher",
+  "name": "Auto Loader Stretcher",
+  "category": "first-aid-kits",
+  "sku": "ESS-FAK-STR-AUTO",
+  "featured": false,
+  "shortDescription": "Wheeled ambulance-style stretcher with folding legs for loading a casualty into a vehicle.",
+  "longDescription": "A wheeled stretcher with folding support legs, designed for ambulance-style loading — the legs collapse as the stretcher is pushed into a vehicle, letting one or two people move a casualty without lifting the full weight by hand.",
+  "images": [
+    {
+      "src": "/placeholders/first-aid-kits.svg",
+      "alt": "Auto Loader Stretcher supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Type",
+      "value": "Auto-loading, folding-leg design"
+    },
+    {
+      "label": "Mobility",
+      "value": "Wheeled base"
+    }
+  ],
+  "tags": [
+    "stretcher",
+    "auto loader",
+    "ambulance",
+    "emergency response"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "disposable-dust-mask",
+  "name": "Disposable Dust / Nuisance Mask",
+  "category": "personal-protective-equipment",
+  "sku": "ESS-PPE-MSK-01",
+  "featured": false,
+  "shortDescription": "Lightweight single-use mask for nuisance dust, pollen and light non-toxic particulate work.",
+  "longDescription": "A low-cost, single-shift mask for general housekeeping, sweeping, loading and other light-dust tasks where a reusable cartridge respirator would be overkill. The moulded non-woven shell holds shape through a shift, and a foam nose seal cuts fogging and gapping. Supplied in bulk packs so sites can keep every visitor and contractor covered without tracking reusable stock.",
+  "images": [
+    {
+      "src": "/placeholders/personal-protective-equipment.svg",
+      "alt": "Disposable Dust / Nuisance Mask supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Filtration",
+      "value": "Nuisance dust; N95-rated option available"
+    },
+    {
+      "label": "Material",
+      "value": "Non-woven fabric shell, foam nose seal"
+    },
+    {
+      "label": "Use",
+      "value": "Single shift, disposable"
+    },
+    {
+      "label": "Packing",
+      "value": "Box of 50"
+    }
+  ],
+  "tags": [
+    "dust mask",
+    "disposable",
+    "nuisance dust",
+    "n95"
+  ]
+}

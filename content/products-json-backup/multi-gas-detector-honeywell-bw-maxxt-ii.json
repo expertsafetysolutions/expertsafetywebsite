@@ -1,0 +1,46 @@
+{
+  "slug": "multi-gas-detector-honeywell-bw-maxxt-ii",
+  "name": "Multi Gas Detector — Honeywell BW Max XT II",
+  "category": "first-aid-kits",
+  "sku": "ESS-FAK-MGD-BW",
+  "featured": true,
+  "shortDescription": "4-gas detector (H2S, CO, O2, LEL) with inbuilt pump and rechargeable battery, for confined-space entry.",
+  "longDescription": "A Honeywell BW Max XT II multi-gas detector monitoring H2S, CO, O2 and LEL simultaneously, with an inbuilt sampling pump for confined-space and remote-area checks before entry. Rechargeable battery for repeated shift use.",
+  "images": [
+    {
+      "src": "/placeholders/first-aid-kits.svg",
+      "alt": "Multi Gas Detector — Honeywell BW Max XT II supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Make",
+      "value": "BW Technologies by Honeywell"
+    },
+    {
+      "label": "Model",
+      "value": "BW Max XT II"
+    },
+    {
+      "label": "Sensors",
+      "value": "H2S, CO, O2, LEL"
+    },
+    {
+      "label": "Sampling",
+      "value": "Inbuilt pump"
+    },
+    {
+      "label": "Power",
+      "value": "Rechargeable battery"
+    }
+  ],
+  "tags": [
+    "gas detector",
+    "multi gas",
+    "honeywell",
+    "confined space",
+    "h2s",
+    "co",
+    "lel"
+  ]
+}

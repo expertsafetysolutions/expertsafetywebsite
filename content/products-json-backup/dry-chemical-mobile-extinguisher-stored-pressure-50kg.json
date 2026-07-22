@@ -1,0 +1,57 @@
+{
+  "slug": "dry-chemical-mobile-extinguisher-stored-pressure-50kg",
+  "name": "Dry Chemical Mobile Extinguisher — Stored Pressure, 50 kg",
+  "category": "fire-extinguishers",
+  "sku": "KFDSRQ-50",
+  "featured": false,
+  "shortDescription": "Wheeled, factory-pressurised 50 kg powder extinguisher for large industrial fire risk.",
+  "longDescription": "A stored-pressure alternative to the external-gas-cylinder mobile extinguisher — this unit is pressurised with UHP-grade nitrogen at the works rather than relying on a field-fitted CO₂ cylinder, simplifying deployment when every second counts. The brass forged valve has an auto safety release mechanism, and the PVC braided hose carries a 300 mm stainless steel protection spring to prevent kinking during rapid unwinding. Suited to loading bays, tank farms and large production halls.",
+  "images": [
+    {
+      "src": "/placeholders/fire-extinguishers.svg",
+      "alt": "Dry Chemical Mobile Extinguisher — Stored Pressure, 50 kg supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Capacity",
+      "value": "50 kg"
+    },
+    {
+      "label": "Fire rating (MAP powder)",
+      "value": "20A : 233B*"
+    },
+    {
+      "label": "Discharge time",
+      "value": "60–70 seconds"
+    },
+    {
+      "label": "Minimum discharge",
+      "value": "85%"
+    },
+    {
+      "label": "Expelling agent",
+      "value": "Nitrogen (UHP grade)"
+    },
+    {
+      "label": "Empty / full / shipping weight",
+      "value": "55 / 105 / 106 kg"
+    },
+    {
+      "label": "Approval",
+      "value": "BIS (MAP powder)"
+    },
+    {
+      "label": "Also available in",
+      "value": "25 kg, 75 kg"
+    }
+  ],
+  "tags": [
+    "mobile extinguisher",
+    "trolley",
+    "stored pressure",
+    "dry powder",
+    "industrial",
+    "kanex"
+  ]
+}

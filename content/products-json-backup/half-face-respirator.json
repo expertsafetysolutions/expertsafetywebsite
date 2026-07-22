@@ -1,0 +1,45 @@
+{
+  "slug": "half-face-respirator",
+  "name": "Half-Face Respirator",
+  "category": "personal-protective-equipment",
+  "sku": "ESS-PPE-RSP-01",
+  "featured": false,
+  "shortDescription": "Twin-cartridge reusable respirator for dust, vapour and fumes.",
+  "longDescription": "A reusable silicone half-face respirator taking twin bayonet cartridges, so the same facepiece can be configured for particulates, organic vapour, acid gas or combination hazards by changing filters. More economical and better-sealing than disposable masks for regular exposure.",
+  "images": [
+    {
+      "src": "/placeholders/personal-protective-equipment.svg",
+      "alt": "Half-Face Respirator supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Facepiece",
+      "value": "Silicone, reusable"
+    },
+    {
+      "label": "Filter mount",
+      "value": "Twin bayonet"
+    },
+    {
+      "label": "Filter options",
+      "value": "P2/P3 particulate, A1 organic, K1 ammonia"
+    },
+    {
+      "label": "Sizes",
+      "value": "Small, medium, large"
+    },
+    {
+      "label": "Standard",
+      "value": "EN 140 facepiece / EN 14387 filters"
+    }
+  ],
+  "tags": [
+    "respirator",
+    "mask",
+    "cartridge",
+    "vapour",
+    "dust",
+    "en 140"
+  ]
+}

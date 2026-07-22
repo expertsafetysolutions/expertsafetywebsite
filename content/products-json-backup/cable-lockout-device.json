@@ -1,0 +1,42 @@
+{
+  "slug": "cable-lockout-device",
+  "name": "Cable Lockout Device — Injection Moulded",
+  "category": "lockout-tagout",
+  "sku": "EXPERT-SH-MCL-2M",
+  "featured": false,
+  "shortDescription": "Threads through odd-shaped equipment to lock out multiple points with one device.",
+  "longDescription": "Valves, gate wheels and equipment that don't have a matching lockout device can still be isolated by threading a galvanised, vinyl-coated steel cable through the mechanism and closing it off with this injection-moulded, corrosion-free lockout body. Rated for up to 8 padlocks and -20°C to +55°C service, with cable lengths from 2m up to 20m for larger multi-point isolations.",
+  "images": [
+    {
+      "src": "/placeholders/lockout-tagout.svg",
+      "alt": "Cable Lockout Device — Injection Moulded supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Locking capacity",
+      "value": "Up to 8 padlocks"
+    },
+    {
+      "label": "Cable",
+      "value": "Galvanised, vinyl-coated steel"
+    },
+    {
+      "label": "Cable lengths available",
+      "value": "2, 3, 5, 10, 20 m"
+    },
+    {
+      "label": "Operating temperature",
+      "value": "-20°C to +55°C"
+    },
+    {
+      "label": "Body",
+      "value": "Injection-moulded, corrosion-free"
+    }
+  ],
+  "tags": [
+    "cable lockout",
+    "valve isolation",
+    "loto"
+  ]
+}

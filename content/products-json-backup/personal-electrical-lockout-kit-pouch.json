@@ -1,0 +1,38 @@
+{
+  "slug": "personal-electrical-lockout-kit-pouch",
+  "name": "Personal Electrical Lockout Kit — Pouch",
+  "category": "lockout-tagout",
+  "sku": "EXPERT-SH-EP-KIT",
+  "featured": true,
+  "shortDescription": "Belt or waist pouch carrying an electrician's complete personal LOTO kit.",
+  "longDescription": "A compact waist or belt pouch pre-packed with the hardware one electrician needs for routine panel and breaker lockout — hasps, an assortment of MCB and circuit breaker lockouts, personal padlocks, keyrings, a push-button lockout, warning tags and cable ties. Keeps a technician's lockout kit together and on-hand rather than scattered across a tool bag, and is quick to check before a shift for missing items.",
+  "images": [
+    {
+      "src": "/placeholders/lockout-tagout.svg",
+      "alt": "Personal Electrical Lockout Kit — Pouch supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Carry",
+      "value": "Belt / waist pouch"
+    },
+    {
+      "label": "Typical contents",
+      "value": "2 hasps, 8 breaker lockout types, 4 padlocks, push-button lockout, 5 tags, 5 ties, keyrings"
+    },
+    {
+      "label": "Fabric",
+      "value": "Export-quality, wear-resistant"
+    },
+    {
+      "label": "Custom kits",
+      "value": "Contents can be tailored to site requirement"
+    }
+  ],
+  "tags": [
+    "personal lockout kit",
+    "electrician pouch",
+    "loto kit"
+  ]
+}

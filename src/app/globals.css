@@ -1,0 +1,154 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: light;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    @apply bg-paper text-ink-800 font-sans antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display text-ink-900;
+    text-wrap: balance;
+  }
+
+  /* Visible, high-contrast keyboard focus everywhere (uses the hiviz accent). */
+  :focus-visible {
+    outline: 3px solid theme("colors.hiviz.DEFAULT");
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+
+  /* Respect users who prefer reduced motion — kill non-essential animation. */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.001ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.001ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+@layer components {
+  /* Constrained content column reused across sections. */
+  .container-x {
+    @apply mx-auto w-full max-w-content px-5 sm:px-6 lg:px-8;
+  }
+
+  /* Lightweight prose styling for MDX body content (services, posts). */
+  .prose-ess {
+    @apply max-w-none text-base leading-relaxed text-ink-800;
+  }
+  .prose-ess > * + * {
+    @apply mt-5;
+  }
+  .prose-ess h2 {
+    @apply mt-10 font-display text-2xl font-bold text-ink-900;
+  }
+  .prose-ess h3 {
+    @apply mt-8 font-display text-xl font-bold text-ink-900;
+  }
+  .prose-ess a {
+    @apply font-medium text-signal underline decoration-signal-200 underline-offset-2 hover:text-signal-700;
+  }
+  .prose-ess ul {
+    @apply list-disc space-y-2 pl-5;
+  }
+  .prose-ess ol {
+    @apply list-decimal space-y-2 pl-5;
+  }
+  .prose-ess strong {
+    @apply font-semibold text-ink-900;
+  }
+  .prose-ess blockquote {
+    @apply border-l-2 border-signal pl-4 italic text-steel;
+  }
+
+  /* Small uppercase mono eyebrow used for technical labels / section kickers. */
+  .eyebrow {
+    @apply font-mono text-xs font-medium uppercase tracking-[0.18em] text-signal;
+  }
+
+  /* Diagonal hazard-stripe band used sparingly as a structural accent. */
+  .hazard-stripe {
+    background-image: repeating-linear-gradient(
+      -45deg,
+      theme("colors.ink.900"),
+      theme("colors.ink.900") 14px,
+      theme("colors.hiviz.DEFAULT") 14px,
+      theme("colors.hiviz.DEFAULT") 28px
+    );
+  }
+
+  /*
+   * Section background patterns — a small, consistent set of safety/technical
+   * motifs (blueprint grid, diagonal hairlines, dot grid) reused across every
+   * page via <Section pattern="...">. Kept intentionally faint (4–8% opacity)
+   * so they read as texture, not decoration.
+   */
+  .bg-pattern-grid-light {
+    background-image:
+      linear-gradient(theme("colors.ink.900") 1px, transparent 1px),
+      linear-gradient(90deg, theme("colors.ink.900") 1px, transparent 1px);
+    background-size: 40px 40px;
+    opacity: 0.05;
+  }
+  .bg-pattern-grid-dark {
+    background-image:
+      linear-gradient(theme("colors.white") 1px, transparent 1px),
+      linear-gradient(90deg, theme("colors.white") 1px, transparent 1px);
+    background-size: 40px 40px;
+    opacity: 0.06;
+  }
+  .bg-pattern-diagonal-light {
+    background-image: repeating-linear-gradient(
+      -45deg,
+      theme("colors.ink.900") 0,
+      theme("colors.ink.900") 1px,
+      transparent 1px,
+      transparent 26px
+    );
+    opacity: 0.05;
+  }
+  .bg-pattern-diagonal-dark {
+    background-image: repeating-linear-gradient(
+      -45deg,
+      theme("colors.white") 0,
+      theme("colors.white") 1px,
+      transparent 1px,
+      transparent 26px
+    );
+    opacity: 0.06;
+  }
+  .bg-pattern-dots-light {
+    background-image: radial-gradient(theme("colors.ink.900") 1.5px, transparent 1.5px);
+    background-size: 22px 22px;
+    opacity: 0.08;
+  }
+
+  /* Thin hazard-tape divider used at the top edge of major sections. */
+  .section-edge {
+    @apply hazard-stripe h-1 w-full sm:h-1.5;
+  }
+}
+
+/* Skip-link: hidden until focused, then pinned top-left for keyboard users. */
+.skip-link {
+  @apply sr-only;
+}
+.skip-link:focus {
+  @apply not-sr-only fixed left-4 top-4 z-[100] rounded bg-ink-900 px-4 py-2 text-sm font-semibold text-white;
+}

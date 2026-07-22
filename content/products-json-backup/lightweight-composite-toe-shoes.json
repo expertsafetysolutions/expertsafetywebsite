@@ -1,0 +1,44 @@
+{
+  "slug": "lightweight-composite-toe-shoes",
+  "name": "Lightweight Composite-Toe Shoes",
+  "category": "safety-footwear",
+  "sku": "ESS-FTW-CMP-01",
+  "featured": false,
+  "shortDescription": "Metal-free composite toe cap for reduced weight and cold conduction.",
+  "longDescription": "A composite toe cap gives the same impact and compression protection as steel at roughly a third of the weight, with no metal to conduct cold or trigger metal detectors — a common requirement in electronics assembly, cold storage and airport-adjacent facilities.",
+  "images": [
+    {
+      "src": "/placeholders/safety-footwear.svg",
+      "alt": "Lightweight Composite-Toe Shoes supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Toe cap",
+      "value": "Composite (non-metallic), 200 J rated"
+    },
+    {
+      "label": "Weight",
+      "value": "Approx. 30% lighter than steel-toe equivalent"
+    },
+    {
+      "label": "Metal detection",
+      "value": "Metal-free construction"
+    },
+    {
+      "label": "Outsole",
+      "value": "Slip-resistant rubber"
+    },
+    {
+      "label": "Standard",
+      "value": "EN ISO 20345 S1P"
+    }
+  ],
+  "tags": [
+    "composite toe",
+    "lightweight",
+    "metal free",
+    "electronics",
+    "cold storage"
+  ]
+}

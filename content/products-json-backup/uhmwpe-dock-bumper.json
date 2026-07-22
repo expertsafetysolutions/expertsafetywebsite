@@ -1,0 +1,35 @@
+{
+  "slug": "uhmwpe-dock-bumper",
+  "name": "UHMWPE Dock Bumper",
+  "category": "road-traffic-safety",
+  "sku": "ESS-RD-DB-03",
+  "featured": false,
+  "shortDescription": "UHMWPE-faced dock bumper for the highest-wear, highest-impact bay entries.",
+  "longDescription": "For dock entries running high vehicle frequency and heavier trailers, a UHMWPE (ultra-high molecular weight polyethylene) facing over a rubber and steel core resists abrasion and impact far better than plain rubber, extending service life on the busiest bays.",
+  "images": [
+    {
+      "src": "/placeholders/road-traffic-safety.svg",
+      "alt": "UHMWPE Dock Bumper supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Sizes",
+      "value": "455x265x112mm (23kg), 750x250x120mm (21kg)"
+    },
+    {
+      "label": "Material",
+      "value": "Rubber (NR+RR) with UHMWPE facing, MS backing"
+    },
+    {
+      "label": "Use case",
+      "value": "High-frequency, heavy-vehicle dock entries"
+    }
+  ],
+  "tags": [
+    "dock bumper",
+    "uhmwpe",
+    "loading bay",
+    "heavy duty"
+  ]
+}

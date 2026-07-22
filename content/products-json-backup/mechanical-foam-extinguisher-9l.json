@@ -1,0 +1,61 @@
+{
+  "slug": "mechanical-foam-extinguisher-9l",
+  "name": "Mechanical Foam (AFFF) Fire Extinguisher — 9 Litre",
+  "category": "fire-extinguishers",
+  "sku": "KFMSRQ-9",
+  "featured": false,
+  "shortDescription": "Aqueous film-forming foam for flammable-liquid and solid-fuel fires.",
+  "longDescription": "AFFF foam extinguishers blanket burning liquids and seal vapours, preventing reignition — the reason they are specified around fuel storage, paint stores, generator rooms and chemical handling areas. This Kanex 9 litre stored-pressure unit is effective on Class A and Class B fires, BIS approved and ISI marked, with a brass chrome-plated squeeze valve, air-aspirated nozzle for a higher fire rating, and EPDM braided hose. Not for use on electrical fires.",
+  "images": [
+    {
+      "src": "/placeholders/fire-extinguishers.svg",
+      "alt": "Mechanical Foam (AFFF) Fire Extinguisher — 9 Litre supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Capacity",
+      "value": "9 litre"
+    },
+    {
+      "label": "Fire class",
+      "value": "A, B"
+    },
+    {
+      "label": "Extinguishing media",
+      "value": "AFFF (Aqueous Film Forming Foam)"
+    },
+    {
+      "label": "Fire rating",
+      "value": "4A : 233B"
+    },
+    {
+      "label": "Discharge time",
+      "value": "≈ 35 seconds"
+    },
+    {
+      "label": "Range of throw",
+      "value": "≈ 6 m"
+    },
+    {
+      "label": "Service / test pressure",
+      "value": "15 / 18 / 35 bar"
+    },
+    {
+      "label": "Standard",
+      "value": "BIS & CE"
+    },
+    {
+      "label": "Also available in",
+      "value": "6 litre — also water-only, SS finish and cartridge-operated versions"
+    }
+  ],
+  "tags": [
+    "foam",
+    "afff",
+    "flammable liquid",
+    "fuel store",
+    "class b",
+    "kanex"
+  ]
+}

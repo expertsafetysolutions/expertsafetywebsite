@@ -1,0 +1,38 @@
+{
+  "slug": "gate-valve-lockout",
+  "name": "Gate Valve Lockout",
+  "category": "lockout-tagout",
+  "sku": "EXPERT-SH-GVL",
+  "featured": true,
+  "shortDescription": "Indestructible cover that spins freely around a locked valve wheel, blocking operation.",
+  "longDescription": "Fits over a gate valve's hand wheel and, once padlocked, rotates freely around it — the valve can't be turned without first removing the lockout, but the cover itself can't be forced off. Moulded from strong polyurethane plastic resistant to cracking, abrasion and extreme weather, supplied across five diameter ranges to cover small instrument valves through to large process-line gate valves.",
+  "images": [
+    {
+      "src": "/placeholders/lockout-tagout.svg",
+      "alt": "Gate Valve Lockout supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Diameter ranges",
+      "value": "25–63.5mm, 63.5–127mm, 127–190mm, 165–280mm, 280–381mm"
+    },
+    {
+      "label": "Material",
+      "value": "Polyurethane plastic"
+    },
+    {
+      "label": "Weather resistance",
+      "value": "Extreme temperature and UV rated"
+    },
+    {
+      "label": "Label",
+      "value": "\"LOCKED OUT — DO NOT OPERATE\" printed"
+    }
+  ],
+  "tags": [
+    "gate valve lockout",
+    "valve isolation",
+    "loto"
+  ]
+}

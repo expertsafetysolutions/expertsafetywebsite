@@ -1,0 +1,44 @@
+{
+  "slug": "full-body-safety-harness",
+  "name": "Full-Body Safety Harness",
+  "category": "fall-protection",
+  "sku": "ESS-FAL-HAR-01",
+  "featured": true,
+  "shortDescription": "Adjustable full-body harness with dorsal D-ring for work-at-height tasks.",
+  "longDescription": "A full-body harness distributes fall-arrest forces across the thighs, pelvis and shoulders rather than the waist alone, which is why it's the standard for any task above 1.8 m. This harness has a dorsal D-ring for lanyard connection, quick-release buckles for fast donning, and padded shoulder straps for extended wear during roof, tank and scaffold work.",
+  "images": [
+    {
+      "src": "/placeholders/fall-protection.svg",
+      "alt": "Full-Body Safety Harness supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "D-rings",
+      "value": "1 dorsal, 2 side (positioning)"
+    },
+    {
+      "label": "Buckles",
+      "value": "Quick-release, tongue-type"
+    },
+    {
+      "label": "Material",
+      "value": "Polyester webbing, 45 mm"
+    },
+    {
+      "label": "Rated capacity",
+      "value": "140 kg"
+    },
+    {
+      "label": "Standard",
+      "value": "IS 3521 / EN 361"
+    }
+  ],
+  "tags": [
+    "harness",
+    "fall arrest",
+    "work at height",
+    "dorsal d-ring",
+    "en 361"
+  ]
+}

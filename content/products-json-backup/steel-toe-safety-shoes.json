@@ -1,0 +1,44 @@
+{
+  "slug": "steel-toe-safety-shoes",
+  "name": "Steel-Toe Safety Shoes",
+  "category": "safety-footwear",
+  "sku": "ESS-FTW-STL-01",
+  "featured": true,
+  "shortDescription": "Low-ankle safety shoe with steel toe cap and oil-resistant sole.",
+  "longDescription": "A low-ankle safety shoe for general factory floor and warehouse use, built around a steel toe cap rated to 200 joules impact and a puncture-resistant midsole. The oil- and slip-resistant rubber outsole holds grip on wet or oily concrete, and the leather upper is breathable enough for full-shift wear.",
+  "images": [
+    {
+      "src": "/placeholders/safety-footwear.svg",
+      "alt": "Steel-Toe Safety Shoes supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Toe cap",
+      "value": "Steel, 200 J impact rated"
+    },
+    {
+      "label": "Midsole",
+      "value": "Puncture-resistant"
+    },
+    {
+      "label": "Outsole",
+      "value": "Oil and slip-resistant rubber"
+    },
+    {
+      "label": "Upper",
+      "value": "Genuine leather"
+    },
+    {
+      "label": "Standard",
+      "value": "IS 15298 / EN ISO 20345 S1P"
+    }
+  ],
+  "tags": [
+    "safety shoes",
+    "steel toe",
+    "low ankle",
+    "factory floor",
+    "en iso 20345"
+  ]
+}

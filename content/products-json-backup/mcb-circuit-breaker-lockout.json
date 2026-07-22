@@ -1,0 +1,42 @@
+{
+  "slug": "mcb-circuit-breaker-lockout",
+  "name": "MCB / Mini Circuit Breaker Lockout",
+  "category": "lockout-tagout",
+  "sku": "EXPERT-SH-MCB-PIN",
+  "featured": true,
+  "shortDescription": "Pin-type lockout that clips over a single MCB toggle to block re-energising.",
+  "longDescription": "Clips directly over an individual MCB toggle switch, blocking it from being flipped back on until the padlock threaded through it is removed. Available in pin-in and pin-out styles to suit different breaker toggle designs, and in single units, sets of 2, or combo packs covering multiple breaker types on one distribution board.",
+  "images": [
+    {
+      "src": "/placeholders/lockout-tagout.svg",
+      "alt": "MCB / Mini Circuit Breaker Lockout supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Type",
+      "value": "Pin-in / pin-out / pin-out wide"
+    },
+    {
+      "label": "Application",
+      "value": "Single-pole MCB / mini circuit breaker"
+    },
+    {
+      "label": "Colours",
+      "value": "Yellow, red, green (by type)"
+    },
+    {
+      "label": "Pack options",
+      "value": "Single, set of 2, combo set of 3–8"
+    },
+    {
+      "label": "Fitting",
+      "value": "No tools required"
+    }
+  ],
+  "tags": [
+    "mcb lockout",
+    "mini circuit breaker",
+    "loto"
+  ]
+}

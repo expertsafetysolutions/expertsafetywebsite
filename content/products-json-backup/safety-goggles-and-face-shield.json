@@ -1,0 +1,44 @@
+{
+  "slug": "safety-goggles-and-face-shield",
+  "name": "Safety Goggles & Face Shield",
+  "category": "personal-protective-equipment",
+  "sku": "ESS-PPE-EYE-01",
+  "featured": false,
+  "shortDescription": "Anti-fog eye protection and full-face shield for grinding and chemicals.",
+  "longDescription": "Impact-rated polycarbonate eye and face protection with an anti-fog, anti-scratch coating. The wide-vision goggle seals against dust and splash, while the full-face shield adds protection for grinding, cutting and chemical decanting. Both are compatible with prescription eyewear and helmet mounting.",
+  "images": [
+    {
+      "src": "/placeholders/personal-protective-equipment.svg",
+      "alt": "Safety Goggles & Face Shield supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Lens material",
+      "value": "Polycarbonate, 2 mm"
+    },
+    {
+      "label": "Coating",
+      "value": "Anti-fog, anti-scratch"
+    },
+    {
+      "label": "Impact rating",
+      "value": "Medium energy (B)"
+    },
+    {
+      "label": "UV protection",
+      "value": "99.9% UV400"
+    },
+    {
+      "label": "Standard",
+      "value": "IS 8940 / EN 166"
+    }
+  ],
+  "tags": [
+    "goggles",
+    "face shield",
+    "eye protection",
+    "anti-fog",
+    "en 166"
+  ]
+}

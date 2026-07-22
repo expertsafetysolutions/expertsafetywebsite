@@ -1,0 +1,47 @@
+{
+  "slug": "automatic-sprinkler-head",
+  "name": "Automatic Fire Sprinkler Head",
+  "category": "fire-hydrant-systems",
+  "sku": "ESS-HYD-SPR-01",
+  "featured": false,
+  "shortDescription": "Heat-activated glass-bulb sprinkler head for wet-riser automatic sprinkler systems.",
+  "longDescription": "A frangible glass bulb sprinkler head that bursts at a set temperature to release pressurised water directly onto the fire zone below, without waiting for anyone to raise an alarm. Supplied in pendent, upright and sidewall orientations to suit false ceilings, open warehouse roofs or wall-mounted installation, and in a choice of temperature ratings so the trigger point matches the ambient heat of the space it protects.",
+  "images": [
+    {
+      "src": "/placeholders/fire-hydrant-systems.svg",
+      "alt": "Automatic Fire Sprinkler Head supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Activation",
+      "value": "Frangible glass bulb"
+    },
+    {
+      "label": "Temperature ratings",
+      "value": "68°C, 93°C, 141°C"
+    },
+    {
+      "label": "Orientation",
+      "value": "Pendent, upright, sidewall"
+    },
+    {
+      "label": "Thread",
+      "value": "15 mm (1/2\") BSP"
+    },
+    {
+      "label": "K-factor",
+      "value": "80"
+    },
+    {
+      "label": "Standard",
+      "value": "IS 15493 / UL listed"
+    }
+  ],
+  "tags": [
+    "sprinkler",
+    "wet riser",
+    "automatic suppression",
+    "glass bulb"
+  ]
+}

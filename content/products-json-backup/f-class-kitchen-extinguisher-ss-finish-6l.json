@@ -1,0 +1,53 @@
+{
+  "slug": "f-class-kitchen-extinguisher-ss-finish-6l",
+  "name": "F-Class Kitchen Fire Extinguisher — SS Finish, 6 Litre",
+  "category": "fire-extinguishers",
+  "sku": "KFKHQ-6",
+  "featured": false,
+  "shortDescription": "Wet chemical extinguisher for commercial kitchen deep-fat fryer and cooking-oil fires.",
+  "longDescription": "Cooking oil and fat fires (Class F) burn hotter than ordinary Class A/B fires and can splash violently if hit with the wrong agent. This wet chemical unit — a mixture of potassium acetate, citrate or carbonate — is designed to deliver a broad, dispersed, low-velocity discharge specifically so it doesn't cause hot oil to splash. The stainless steel body suits open commercial kitchens, and the CE-marked valve and helium leak testing match the rest of the Kanex range.",
+  "images": [
+    {
+      "src": "/placeholders/fire-extinguishers.svg",
+      "alt": "F-Class Kitchen Fire Extinguisher — SS Finish, 6 Litre supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Capacity",
+      "value": "6 litre"
+    },
+    {
+      "label": "Fire class",
+      "value": "A, F"
+    },
+    {
+      "label": "Extinguishing media",
+      "value": "Wet chemical (potassium-based)"
+    },
+    {
+      "label": "Fire rating (BIS)",
+      "value": "25F"
+    },
+    {
+      "label": "Discharge time",
+      "value": "≈ 20 seconds"
+    },
+    {
+      "label": "Approvals",
+      "value": "BIS & CE"
+    },
+    {
+      "label": "Also available in",
+      "value": "2, 3, 4, 9 litre"
+    }
+  ],
+  "tags": [
+    "f class",
+    "kitchen",
+    "wet chemical",
+    "cooking oil",
+    "restaurant",
+    "kanex"
+  ]
+}

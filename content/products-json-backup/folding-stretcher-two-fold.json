@@ -1,0 +1,43 @@
+{
+  "slug": "folding-stretcher-two-fold",
+  "name": "Folding Stretcher (Two-Fold, M.S.)",
+  "category": "first-aid-kits",
+  "sku": "ESS-FAK-STR-FOLD",
+  "featured": false,
+  "shortDescription": "Lightweight two-fold canvas stretcher, 150 kg capacity, folds flat for storage and transport.",
+  "longDescription": "A lightweight folding stretcher built from thickened, breathable canvas over a steel-alloy frame, rated to carry 150 kg. Folds flat for compact storage in a vehicle, security room or first-aid station, and is easy to clean after use.",
+  "images": [
+    {
+      "src": "/placeholders/first-aid-kits.svg",
+      "alt": "Folding Stretcher (Two-Fold, M.S.) supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Material",
+      "value": "Breathable canvas, stainless/alloy frame"
+    },
+    {
+      "label": "Dimensions",
+      "value": "200 x 55 x 18 cm"
+    },
+    {
+      "label": "Net weight",
+      "value": "5.2 kg"
+    },
+    {
+      "label": "Bearing capacity",
+      "value": "150 kg"
+    },
+    {
+      "label": "Foldable",
+      "value": "Yes — folds flat for storage"
+    }
+  ],
+  "tags": [
+    "stretcher",
+    "folding stretcher",
+    "canvas",
+    "emergency response"
+  ]
+}

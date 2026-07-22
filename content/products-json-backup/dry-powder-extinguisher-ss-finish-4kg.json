@@ -1,0 +1,62 @@
+{
+  "slug": "dry-powder-extinguisher-ss-finish-4kg",
+  "name": "Dry Powder Fire Extinguisher — SS Finish, 4 kg",
+  "category": "fire-extinguishers",
+  "sku": "KFASSHQ-4",
+  "featured": false,
+  "shortDescription": "Stainless steel bodied ABC extinguisher for reception areas and clean facilities.",
+  "longDescription": "Where appearance matters as much as protection — receptions, boardrooms, food and pharma production floors — this Kanex stored-pressure unit swaps the usual powder-coated shell for a smooth stainless steel body. It carries UL-listed MAP powder rated for Class A, B, C and electrical fires, a CE-marked brass chrome-plated valve and an EPDM braided hose that stays flexible instead of cracking with age. Every unit is helium leak-tested down to 1×10⁻⁸ mbar·l/sec and hydraulically tested before it leaves the works, and the Unique Gauge Testing System lets your maintenance team confirm pressure without discharging the cylinder.",
+  "images": [
+    {
+      "src": "/placeholders/fire-extinguishers.svg",
+      "alt": "Dry Powder Fire Extinguisher — SS Finish, 4 kg supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Capacity",
+      "value": "4 kg"
+    },
+    {
+      "label": "Fire class",
+      "value": "A, B, C, electrical"
+    },
+    {
+      "label": "Extinguishing media",
+      "value": "MAP powder (UL-listed)"
+    },
+    {
+      "label": "Fire rating",
+      "value": "3A : 89B (90% charge: 4A : 144B)"
+    },
+    {
+      "label": "Discharge time",
+      "value": "≈ 18 seconds"
+    },
+    {
+      "label": "Range of throw",
+      "value": "≈ 3 m"
+    },
+    {
+      "label": "Service / test pressure",
+      "value": "15 / 18 / 35 bar"
+    },
+    {
+      "label": "Approvals",
+      "value": "BIS marked, CE"
+    },
+    {
+      "label": "Also available in",
+      "value": "2 kg, 6 kg"
+    }
+  ],
+  "tags": [
+    "ss finish",
+    "stainless steel",
+    "abc",
+    "dry powder",
+    "reception",
+    "clean facility",
+    "kanex"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "rrl-fire-hose-63mm",
+  "name": "RRL Fire Hose — 63 mm",
+  "category": "fire-hydrant-systems",
+  "sku": "ESS-HYD-HOSE-63",
+  "featured": true,
+  "shortDescription": "Reinforced rubber-lined delivery hose with instantaneous couplings.",
+  "longDescription": "Reinforced rubber-lined (RRL) hose is the workhorse delivery line for fire hydrant systems — durable, kink-resistant and able to hold working pressure over long runs. Supplied in standard 15 metre lengths, bound and fitted with gunmetal or aluminium instantaneous couplings to match your existing hydrant points.",
+  "images": [
+    {
+      "src": "/placeholders/fire-hydrant-systems.svg",
+      "alt": "RRL Fire Hose — 63 mm supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Diameter",
+      "value": "63 mm"
+    },
+    {
+      "label": "Length",
+      "value": "15 m (standard)"
+    },
+    {
+      "label": "Working pressure",
+      "value": "8.5 bar"
+    },
+    {
+      "label": "Bursting pressure",
+      "value": "≥ 25 bar"
+    },
+    {
+      "label": "Couplings",
+      "value": "Gunmetal / aluminium instantaneous"
+    },
+    {
+      "label": "Standard",
+      "value": "IS 636 Type A / B"
+    }
+  ],
+  "tags": [
+    "hose",
+    "rrl",
+    "hydrant",
+    "delivery",
+    "is 636"
+  ]
+}

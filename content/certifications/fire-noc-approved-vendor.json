@@ -1,0 +1,9 @@
+{
+  "slug": "fire-noc-approved-vendor",
+  "name": "Fire Department Approved Vendor",
+  "issuer": "SAMPLE — Local Fire & Emergency Services",
+  "reference": "SAMPLE-FIRENOC-0000",
+  "scope": "Approved vendor status for fire safety equipment supply and servicing.",
+  "validUntil": "SAMPLE — replace with real validity date",
+  "logo": "/placeholders/generic.svg"
+}

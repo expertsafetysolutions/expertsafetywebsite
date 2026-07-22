@@ -1,0 +1,31 @@
+{
+  "slug": "oxygen-cylinder-trolley-6ltr",
+  "name": "Oxygen Cylinder with Trolley Set — 6 Litre",
+  "category": "first-aid-kits",
+  "sku": "ESS-FAK-O2-6L",
+  "featured": true,
+  "shortDescription": "6-litre medical oxygen cylinder with regulator, humidifier bottle and wheeled trolley.",
+  "longDescription": "A 6-litre oxygen cylinder fitted with a regulator and humidifier bottle, mounted on a wheeled trolley for quick movement to a casualty on site. Kept at a first-aid or medical room station as part of a facility's emergency response equipment.",
+  "images": [
+    {
+      "src": "/placeholders/first-aid-kits.svg",
+      "alt": "Oxygen Cylinder with Trolley Set — 6 Litre supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Cylinder capacity",
+      "value": "6 litre"
+    },
+    {
+      "label": "Includes",
+      "value": "Regulator, humidifier bottle, wheeled trolley"
+    }
+  ],
+  "tags": [
+    "oxygen cylinder",
+    "trolley",
+    "emergency response",
+    "medical oxygen"
+  ]
+}

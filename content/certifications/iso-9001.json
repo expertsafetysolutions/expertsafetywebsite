@@ -1,0 +1,9 @@
+{
+  "slug": "iso-9001",
+  "name": "ISO 9001:2015 — Quality Management",
+  "issuer": "SAMPLE Certification Body",
+  "reference": "SAMPLE-ISO9001-0000",
+  "scope": "Supply, installation, testing and maintenance of fire safety equipment.",
+  "validUntil": "SAMPLE — replace with real validity date",
+  "logo": "/placeholders/generic.svg"
+}

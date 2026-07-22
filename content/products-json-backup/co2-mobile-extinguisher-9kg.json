@@ -1,0 +1,57 @@
+{
+  "slug": "co2-mobile-extinguisher-9kg",
+  "name": "CO₂ Mobile Fire Extinguisher — 9 kg",
+  "category": "fire-extinguishers",
+  "sku": "KFCRQ-9",
+  "featured": false,
+  "shortDescription": "Wheeled carbon dioxide extinguisher for large electrical and switchgear risk areas.",
+  "longDescription": "A trolley-mounted CO₂ unit for transformer yards, large switchgear rooms and generator halls where a portable 2–4.5 kg cylinder can't deliver enough clean, non-conductive agent. The wire-braided hose and flat horn with diffuser nozzle disperse CO₂ over a wider area than a standard bend-pipe horn, and the CCOE/PESO-approved cylinder is enamel painted externally with a high-grade PO Red finish. Rechargeable and non-conductive, leaving no residue on sensitive equipment.",
+  "images": [
+    {
+      "src": "/placeholders/fire-extinguishers.svg",
+      "alt": "CO₂ Mobile Fire Extinguisher — 9 kg supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Capacity",
+      "value": "9 kg"
+    },
+    {
+      "label": "Fire class",
+      "value": "B, C, electrical"
+    },
+    {
+      "label": "Design",
+      "value": "Wire-braided hose & flat horn"
+    },
+    {
+      "label": "Fire rating",
+      "value": "55B"
+    },
+    {
+      "label": "Discharge time",
+      "value": "≈ 30 seconds"
+    },
+    {
+      "label": "Service / test pressure",
+      "value": "60 / 105 / 250 bar"
+    },
+    {
+      "label": "Approval",
+      "value": "BIS"
+    },
+    {
+      "label": "Also available in",
+      "value": "6.5 kg, 22.5 kg"
+    }
+  ],
+  "tags": [
+    "co2",
+    "mobile extinguisher",
+    "trolley",
+    "switchgear",
+    "transformer",
+    "kanex"
+  ]
+}

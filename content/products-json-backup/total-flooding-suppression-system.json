@@ -1,0 +1,54 @@
+{
+  "slug": "total-flooding-suppression-system",
+  "name": "Total Flooding Fire Suppression System",
+  "category": "fire-suppression-systems",
+  "sku": "KANEX-TFS",
+  "featured": false,
+  "shortDescription": "Custom-engineered gas flooding system for data centres, switching rooms and heritage sites.",
+  "longDescription": "For spaces where any fire — however small — cannot be allowed to cause water damage, powder residue or extended downtime, a total flooding system discharges a predetermined concentration of clean agent or inert gas into the enclosed space to suppress the fire within seconds, then clears without cleanup. Each installation is custom engineered to the room's volume and risk profile rather than sold as a fixed model, using clean agents such as Novec 1230 (FK-5-1-12) or FM-200 (HFC-227ea), inert gas blends (nitrogen, argon, CO₂) or CO₂ alone, designed to NFPA standards. We handle fire hazard analysis, system design and installation, with VdS/FM/UL certification available per client requirement.",
+  "images": [
+    {
+      "src": "/placeholders/fire-suppression-systems.svg",
+      "alt": "Total Flooding Fire Suppression System supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Extinguishing agents",
+      "value": "Novec 1230 (FK-5-1-12), FM-200 (HFC-227ea), CO₂, inert gas (N₂/Ar)"
+    },
+    {
+      "label": "Sizing",
+      "value": "Custom engineered to room volume and risk"
+    },
+    {
+      "label": "Design standard",
+      "value": "NFPA"
+    },
+    {
+      "label": "Certification",
+      "value": "VdS / FM / UL — as per client requirement"
+    },
+    {
+      "label": "Downtime / cleanup",
+      "value": "Zero to minimal — no agent residue"
+    },
+    {
+      "label": "Ideal use",
+      "value": "Data centres, electrical switching rooms, heritage sites, control rooms"
+    },
+    {
+      "label": "Services included",
+      "value": "Fire hazard analysis, system design and support, installation and service"
+    }
+  ],
+  "tags": [
+    "total flooding",
+    "clean agent",
+    "data centre",
+    "gas suppression",
+    "novec 1230",
+    "fm-200",
+    "kanex"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "chemical-resistant-nitrile-gloves",
+  "name": "Chemical-Resistant Nitrile Gloves",
+  "category": "safety-gloves",
+  "sku": "ESS-GLV-CHM-01",
+  "featured": false,
+  "shortDescription": "Flock-lined nitrile for solvent, acid and oil handling.",
+  "longDescription": "Flock-lined nitrile gloves resist a broad range of solvents, acids, alkalis and oils while remaining comfortable for extended wear. Standard issue for chemical decanting, plant cleaning and effluent handling. Supplied with a chemical permeation reference so you can match the glove to the substance on your MSDS.",
+  "images": [
+    {
+      "src": "/placeholders/safety-gloves.svg",
+      "alt": "Chemical-Resistant Nitrile Gloves supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Material",
+      "value": "Nitrile, flock-lined"
+    },
+    {
+      "label": "Thickness",
+      "value": "0.38 mm"
+    },
+    {
+      "label": "Length",
+      "value": "330 mm"
+    },
+    {
+      "label": "Sizes",
+      "value": "8, 9, 10"
+    },
+    {
+      "label": "Standard",
+      "value": "EN 374 chemical protection"
+    }
+  ],
+  "tags": [
+    "chemical",
+    "nitrile",
+    "solvent",
+    "acid",
+    "en 374"
+  ]
+}

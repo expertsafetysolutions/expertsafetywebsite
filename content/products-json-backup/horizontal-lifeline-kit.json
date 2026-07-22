@@ -1,0 +1,44 @@
+{
+  "slug": "horizontal-lifeline-kit",
+  "name": "Horizontal Lifeline Kit",
+  "category": "fall-protection",
+  "sku": "ESS-FAL-LIN-01",
+  "featured": false,
+  "shortDescription": "Cable lifeline system for continuous fall protection along a work run.",
+  "longDescription": "A horizontal lifeline lets multiple workers clip on and move freely along a fixed cable run — used along roof edges, gantries and elevated walkways where individual anchor points aren't practical. Kit includes tensioning hardware, intermediate brackets and end anchors sized to the run length.",
+  "images": [
+    {
+      "src": "/placeholders/fall-protection.svg",
+      "alt": "Horizontal Lifeline Kit supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Cable",
+      "value": "8 mm galvanised steel wire rope"
+    },
+    {
+      "label": "Max span",
+      "value": "Up to 18 m between end anchors"
+    },
+    {
+      "label": "Users",
+      "value": "Up to 2 simultaneous (per span rating)"
+    },
+    {
+      "label": "Includes",
+      "value": "Tensioner, brackets, end anchors"
+    },
+    {
+      "label": "Standard",
+      "value": "EN 795 Type C"
+    }
+  ],
+  "tags": [
+    "lifeline",
+    "horizontal lifeline",
+    "cable system",
+    "en 795",
+    "roof edge"
+  ]
+}

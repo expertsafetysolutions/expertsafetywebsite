@@ -1,0 +1,43 @@
+{
+  "slug": "safety-lockout-padlock-abs-jacket",
+  "name": "Safety Lockout Padlock — ABS Jacket, Set of 3",
+  "category": "lockout-tagout",
+  "sku": "EXPERT-SH-PL-LS",
+  "featured": true,
+  "shortDescription": "Colour-coded jacketed padlock with 3-lever mechanism, for personal lockout identification.",
+  "longDescription": "The core tool of any lockout programme — one padlock per worker, keyed so only that worker can remove it. The ABS jacket comes in six colours for department or crew identification, each set of three ships with 3 keys and a drafted instruction sticker. Available with long or regular shackle, and with photo-ID or engraved name/department labels for larger sites running formal LOTO programmes.",
+  "images": [
+    {
+      "src": "/placeholders/lockout-tagout.svg",
+      "alt": "Safety Lockout Padlock — ABS Jacket, Set of 3 supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Set size",
+      "value": "3 padlocks, 3 keys each"
+    },
+    {
+      "label": "Mechanism",
+      "value": "3-lever"
+    },
+    {
+      "label": "Colours",
+      "value": "Green, Blue, Red, Yellow, White, Black"
+    },
+    {
+      "label": "Shackle options",
+      "value": "Long or regular"
+    },
+    {
+      "label": "Personalisation",
+      "value": "Photo-ID, engraved name/department + keyring (optional)"
+    }
+  ],
+  "tags": [
+    "lockout padlock",
+    "abs jacket",
+    "personal lockout",
+    "loto"
+  ]
+}

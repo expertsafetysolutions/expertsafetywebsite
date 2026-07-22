@@ -1,0 +1,43 @@
+{
+  "slug": "fire-bucket-with-stand",
+  "name": "Fire Bucket with Stand — Sand / Water Point",
+  "category": "fire-extinguishers",
+  "sku": "ESS-EXT-BKT-01",
+  "featured": false,
+  "shortDescription": "Red fire bucket on a stand — a standard first-response fire point fixture required at most factory premises.",
+  "longDescription": "A simple, always-ready first line of defence: sand or water-filled buckets mounted on a stand at a designated fire point, required under most state factory rules alongside extinguishers at high-risk locations such as fuel stores, welding bays and boiler rooms. The mild steel bucket and stand are powder-coated fire red for instant recognition and finished to withstand daily outdoor exposure.",
+  "images": [
+    {
+      "src": "/placeholders/fire-extinguishers.svg",
+      "alt": "Fire Bucket with Stand — Sand / Water Point supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Bucket capacity",
+      "value": "9 litre"
+    },
+    {
+      "label": "Material",
+      "value": "Mild steel, powder-coated fire red"
+    },
+    {
+      "label": "Stand",
+      "value": "Holds 2, 4 or 6 buckets"
+    },
+    {
+      "label": "Contents",
+      "value": "Dry sand or water, as specified"
+    },
+    {
+      "label": "Typical location",
+      "value": "Fuel stores, welding bays, boiler rooms"
+    }
+  ],
+  "tags": [
+    "fire bucket",
+    "sand bucket",
+    "fire point",
+    "factory rules"
+  ]
+}

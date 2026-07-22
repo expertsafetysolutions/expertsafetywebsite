@@ -1,0 +1,39 @@
+{
+  "slug": "custom-safety-posters-and-placards",
+  "name": "Custom Safety Posters & Placards",
+  "category": "fire-safety-signage",
+  "sku": "CUSTOM-POSTERS",
+  "featured": false,
+  "shortDescription": "Printed workplace safety reminders — PPE, hygiene, hazard and 'Safety First' placards.",
+  "longDescription": "Beyond statutory signage, workplaces run better with visible day-to-day reminders — PPE requirements at an area's entrance, handwashing and hygiene posters near washrooms, 'report all accidents' and general safety-culture placards in break areas. We print these to order in your choice of wording, size and finish, matched to the areas and hazards specific to your site rather than a generic off-the-shelf design.",
+  "images": [
+    {
+      "src": "/placeholders/fire-safety-signage.svg",
+      "alt": "Custom Safety Posters & Placards supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Formats",
+      "value": "A4 to A1 poster, or rigid placard"
+    },
+    {
+      "label": "Topics",
+      "value": "PPE reminders, hygiene/handwashing, general safety culture, housekeeping"
+    },
+    {
+      "label": "Material",
+      "value": "Laminated paper, PVC foam, or rigid sheet"
+    },
+    {
+      "label": "Production",
+      "value": "Custom wording and layout to order"
+    }
+  ],
+  "tags": [
+    "safety poster",
+    "ppe reminder",
+    "workplace signage",
+    "custom placard"
+  ]
+}

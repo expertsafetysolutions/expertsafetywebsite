@@ -1,0 +1,38 @@
+{
+  "slug": "electrical-panel-lockout-cover",
+  "name": "Electrical Panel / Push-Button Lockout Cover",
+  "category": "lockout-tagout",
+  "sku": "EXPERT-SH-MEPL-R",
+  "featured": false,
+  "shortDescription": "Transparent cover that locks over panel switches and push-buttons without hiding their state.",
+  "longDescription": "A clear, special-grade transparent cover that locks over a panel-mounted switch, rotary handle or push-button, blocking operation while still letting technicians see the switch's on/off position through the cover. Round and square versions are available in small and large sizes, with cut-outs to accommodate handles that rotate 45° or 90°.",
+  "images": [
+    {
+      "src": "/placeholders/lockout-tagout.svg",
+      "alt": "Electrical Panel / Push-Button Lockout Cover supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Material",
+      "value": "Special-grade transparent polymer"
+    },
+    {
+      "label": "Shapes",
+      "value": "Round or square"
+    },
+    {
+      "label": "Sizes",
+      "value": "Small and large (up to 95mm dia.)"
+    },
+    {
+      "label": "Handle clearance",
+      "value": "Cut-outs for 45° / 90° rotation"
+    }
+  ],
+  "tags": [
+    "panel lockout",
+    "push button lockout",
+    "loto"
+  ]
+}

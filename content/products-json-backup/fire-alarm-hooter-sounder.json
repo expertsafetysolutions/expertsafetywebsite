@@ -1,0 +1,43 @@
+{
+  "slug": "fire-alarm-hooter-sounder",
+  "name": "Fire Alarm Hooter / Sounder",
+  "category": "fire-alarm-detection",
+  "sku": "ESS-ALM-HTR-01",
+  "featured": false,
+  "shortDescription": "Wall-mounted electronic sounder giving loud, unmistakable warning across a fire zone.",
+  "longDescription": "When a detector or manual call point trips the panel, this sounder is what actually gets people moving — a wall-mounted hooter delivering a loud, distinctive tone that cuts through ordinary factory or office noise. Wired back to the fire alarm control panel and addressed by zone, so evacuation can be triggered selectively or across the whole site.",
+  "images": [
+    {
+      "src": "/placeholders/fire-alarm-detection.svg",
+      "alt": "Fire Alarm Hooter / Sounder supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Sound output",
+      "value": "≈ 100 dB at 1 m"
+    },
+    {
+      "label": "Supply",
+      "value": "24V DC, panel-fed"
+    },
+    {
+      "label": "Mounting",
+      "value": "Wall / surface mounted"
+    },
+    {
+      "label": "Tone",
+      "value": "Multi-tone, selectable"
+    },
+    {
+      "label": "Standard",
+      "value": "EN 54-3"
+    }
+  ],
+  "tags": [
+    "hooter",
+    "sounder",
+    "fire alarm",
+    "evacuation alert"
+  ]
+}

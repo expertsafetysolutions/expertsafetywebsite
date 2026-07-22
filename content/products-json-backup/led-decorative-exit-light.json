@@ -1,0 +1,42 @@
+{
+  "slug": "led-decorative-exit-light",
+  "name": "LED Decorative Exit / Egress Light",
+  "category": "fire-safety-signage",
+  "sku": "GEL-LED-WEL",
+  "featured": false,
+  "shortDescription": "Wall-mounted LED exit sign for hospitals, hotels and public buildings.",
+  "longDescription": "A wall-mounted decorative exit sign for public buildings, hospitals, factories and hotels where emergency lighting needs to guide an orderly evacuation without looking industrial. Same 3W LED / 3-hour backup platform as the sleek ceiling range, in a wall-surface housing with mains, battery and photoluminescent operating modes.",
+  "images": [
+    {
+      "src": "/placeholders/fire-safety-signage.svg",
+      "alt": "LED Decorative Exit / Egress Light supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "LED",
+      "value": "3W, 15+ year lamp life"
+    },
+    {
+      "label": "Battery backup",
+      "value": "3 hours (maintained models)"
+    },
+    {
+      "label": "Modes",
+      "value": "Maintained / Maintained-Photoluminescent / Without-Battery"
+    },
+    {
+      "label": "Mounting",
+      "value": "Wall mounted / surface"
+    },
+    {
+      "label": "Housing",
+      "value": "White ABS, moulded diffuser"
+    }
+  ],
+  "tags": [
+    "led exit sign",
+    "emergency lighting",
+    "wall mounted exit sign"
+  ]
+}

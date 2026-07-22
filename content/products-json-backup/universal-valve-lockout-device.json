@@ -1,0 +1,38 @@
+{
+  "slug": "universal-valve-lockout-device",
+  "name": "Universal Valve Lockout Device",
+  "category": "lockout-tagout",
+  "sku": "EXPERT-SH-ULD-15",
+  "featured": false,
+  "shortDescription": "Bottom-jaw-grip lockout with interchangeable arms for irregular valve handles.",
+  "longDescription": "A lower bottom-jaw grip locks onto valve stems that don't match a standard gate, ball or butterfly lockout, with interchangeable long and short arms sold separately so one base device covers a wider range of handle shapes and reaches. An insulated-cable version is also available for valves in tight or hazardous locations.",
+  "images": [
+    {
+      "src": "/placeholders/lockout-tagout.svg",
+      "alt": "Universal Valve Lockout Device supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Grip",
+      "value": "Lower bottom jaw, 15mm"
+    },
+    {
+      "label": "Arms",
+      "value": "Long arm / short arm (interchangeable, sold separately)"
+    },
+    {
+      "label": "Cable variant",
+      "value": "2.5 m insulated cable version available"
+    },
+    {
+      "label": "Construction",
+      "value": "ABS + metal + spring + PU"
+    }
+  ],
+  "tags": [
+    "universal valve lockout",
+    "irregular valve",
+    "loto"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "lithium-ion-fire-extinguisher-avd-6l",
+  "name": "Lithium-Ion (AVD) Fire Extinguisher — 6 Litre",
+  "category": "fire-extinguishers",
+  "sku": "KFLIHQ-6",
+  "featured": true,
+  "shortDescription": "Vermiculite emulsion (AVD) extinguisher purpose-built for lithium-ion battery fires.",
+  "longDescription": "Lithium-ion battery fires are prone to thermal runaway — cells swell, vent flammable hydrocarbon gas, and the fire can re-ignite even after it appears out. Kanex's AVD (Aqueous Vermiculite Dispersion) agent is applied as a fine mist that deposits vermiculite platelets over the cell surface, forming a non-flammable oxygen barrier while cooling the battery and insulating adjacent cells from thermal propagation. Purpose-built for battery storage rooms, EV charging bays and facilities running racks of lithium-ion equipment.",
+  "images": [
+    {
+      "src": "/placeholders/fire-extinguishers.svg",
+      "alt": "Lithium-Ion (AVD) Fire Extinguisher — 6 Litre supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Capacity",
+      "value": "6 litre"
+    },
+    {
+      "label": "Fire class",
+      "value": "A, electrical, Li-ion battery"
+    },
+    {
+      "label": "Extinguishing media",
+      "value": "AVD — Aqueous Vermiculite Dispersion"
+    },
+    {
+      "label": "Design",
+      "value": "Hose with nozzle"
+    },
+    {
+      "label": "Discharge time",
+      "value": "≈ 120 seconds"
+    },
+    {
+      "label": "Range of throw",
+      "value": "1.5–2 m"
+    },
+    {
+      "label": "Approval",
+      "value": "BIS"
+    },
+    {
+      "label": "Also available in",
+      "value": "1, 2, 4, 9 litre"
+    }
+  ],
+  "tags": [
+    "lithium ion",
+    "avd",
+    "battery fire",
+    "thermal runaway",
+    "ev",
+    "kanex"
+  ]
+}

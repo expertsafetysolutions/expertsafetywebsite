@@ -1,0 +1,44 @@
+{
+  "slug": "high-visibility-reflective-vest",
+  "name": "High-Visibility Reflective Vest",
+  "category": "road-traffic-safety",
+  "sku": "ESS-RD-VST-01",
+  "featured": false,
+  "shortDescription": "Lightweight mesh vest with reflective banding for visitor and site use.",
+  "longDescription": "A lightweight mesh high-visibility vest for site visitors, contractors and staff working near vehicle movement or in low-light yard areas. Velcro front closure fits over regular workwear, with reflective banding front and back for 360-degree visibility.",
+  "images": [
+    {
+      "src": "/placeholders/road-traffic-safety.svg",
+      "alt": "High-Visibility Reflective Vest supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Fabric",
+      "value": "Fluorescent polyester mesh"
+    },
+    {
+      "label": "Reflective tape",
+      "value": "50 mm banding, front & back"
+    },
+    {
+      "label": "Closure",
+      "value": "Velcro front"
+    },
+    {
+      "label": "Conspicuity class",
+      "value": "Class 2"
+    },
+    {
+      "label": "Standard",
+      "value": "EN ISO 20471"
+    }
+  ],
+  "tags": [
+    "hi-vis vest",
+    "reflective",
+    "visitor safety",
+    "mesh vest",
+    "en iso 20471"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "trolley-wheel-chock-with-handle",
+  "name": "Trolley & Long-Handle Wheel Chock",
+  "category": "road-traffic-safety",
+  "sku": "ESS-RD-WC-02",
+  "featured": false,
+  "shortDescription": "Wheeled trolley or long-handle wheel chocks for hands-free, no-stoop placement.",
+  "longDescription": "For sites chocking wheels on every truck through a busy dock, bending down to place and retrieve a standard chock all day adds up. This trolley carries two chocks with a message plate to display and wheels them into place without stooping; the long-handle version does the same for single-chock use.",
+  "images": [
+    {
+      "src": "/placeholders/road-traffic-safety.svg",
+      "alt": "Trolley & Long-Handle Wheel Chock supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Trolley chock",
+      "value": "900x570x915mm, 20kg — two chocks per trolley, 10\"x10\" message plate"
+    },
+    {
+      "label": "Handle chock",
+      "value": "91.5cm or 83.5cm handle, 5–7.9kg"
+    },
+    {
+      "label": "Use case",
+      "value": "Fast, ergonomic wheel chocking for high-turnover fleets"
+    }
+  ],
+  "tags": [
+    "wheel chock",
+    "trolley chock",
+    "loading dock"
+  ]
+}

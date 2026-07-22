@@ -1,0 +1,57 @@
+{
+  "slug": "clean-agent-fire-extinguisher-4kg",
+  "name": "Clean Agent (FE-36) Fire Extinguisher — 4 kg",
+  "category": "fire-extinguishers",
+  "sku": "KCARQ-4",
+  "featured": true,
+  "shortDescription": "Residue-free FE-36 clean agent extinguisher for electronics, server rooms and labs.",
+  "longDescription": "FE-36 clean agent gas leaves zero residue and zero ozone depletion potential, so it protects switchgear, data storage, laboratory instruments and other equipment that dry powder or foam would damage or contaminate. Unlike CO₂, FE-36 discharges as a gas rather than a liquid and does not leave condensed moisture behind. The unit is UL listed and US EPA SNAP approved, with the same brass chrome-plated squeeze valve, Unique Gauge Testing System and stainless pull pin used across the Kanex range.",
+  "images": [
+    {
+      "src": "/placeholders/fire-extinguishers.svg",
+      "alt": "Clean Agent (FE-36) Fire Extinguisher — 4 kg supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Capacity",
+      "value": "4 kg"
+    },
+    {
+      "label": "Fire class",
+      "value": "A, B, C, electrical"
+    },
+    {
+      "label": "Extinguishing media",
+      "value": "HFC-236fa / FE-36 clean agent, ODP = 0"
+    },
+    {
+      "label": "Fire rating",
+      "value": "2A : 34B (EN: 8A : 34B)"
+    },
+    {
+      "label": "Discharge time",
+      "value": "≈ 14 seconds"
+    },
+    {
+      "label": "Range of throw",
+      "value": "≈ 3.5 m"
+    },
+    {
+      "label": "Approvals",
+      "value": "BIS (RQ) / BIS & CE (HQ), UL Listed, US EPA SNAP"
+    },
+    {
+      "label": "Also available in",
+      "value": "2 kg, 6 kg"
+    }
+  ],
+  "tags": [
+    "clean agent",
+    "fe-36",
+    "electronics",
+    "server room",
+    "laboratory",
+    "kanex"
+  ]
+}

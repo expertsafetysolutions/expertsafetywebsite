@@ -1,0 +1,44 @@
+{
+  "slug": "electrical-insulating-gloves-class-2",
+  "name": "Electrical Insulating Gloves — Class 2",
+  "category": "safety-gloves",
+  "sku": "ESS-GLV-ELC-02",
+  "featured": false,
+  "shortDescription": "Dielectric latex gloves tested to 20 kV for live-line work.",
+  "longDescription": "Class 2 dielectric gloves are proof-tested for work on or near energised equipment up to 17 kV working voltage. Each pair ships with its test certificate, and we can arrange the periodic retest interval your electrical safety procedure requires.",
+  "images": [
+    {
+      "src": "/placeholders/safety-gloves.svg",
+      "alt": "Electrical Insulating Gloves — Class 2 supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Class",
+      "value": "Class 2"
+    },
+    {
+      "label": "Proof-test voltage",
+      "value": "20 kV"
+    },
+    {
+      "label": "Max use voltage",
+      "value": "17 kV AC"
+    },
+    {
+      "label": "Material",
+      "value": "Natural latex, seamless"
+    },
+    {
+      "label": "Standard",
+      "value": "IEC 60903"
+    }
+  ],
+  "tags": [
+    "electrical",
+    "dielectric",
+    "insulating",
+    "live line",
+    "iec 60903"
+  ]
+}

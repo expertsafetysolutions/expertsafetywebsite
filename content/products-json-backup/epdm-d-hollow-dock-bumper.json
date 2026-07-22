@@ -1,0 +1,42 @@
+{
+  "slug": "epdm-d-hollow-dock-bumper",
+  "name": "EPDM D-Hollow / Square Bumper",
+  "category": "road-traffic-safety",
+  "sku": "ESS-RD-DB-04",
+  "featured": false,
+  "shortDescription": "EPDM rubber D-profile and square-hollow bumpers for column and wall protection.",
+  "longDescription": "Extruded EPDM rubber bumper profile, hollow-cored for cushioning, supplied by the metre and cut to length for columns, wall edges and structural steel that need continuous impact protection rather than a single point bumper.",
+  "images": [
+    {
+      "src": "/placeholders/road-traffic-safety.svg",
+      "alt": "EPDM D-Hollow / Square Bumper supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Profile",
+      "value": "D-hollow or square D-hollow"
+    },
+    {
+      "label": "Cross-section",
+      "value": "150x150x75x75mm"
+    },
+    {
+      "label": "Length",
+      "value": "500mm to 3 m, cut to size"
+    },
+    {
+      "label": "Weight",
+      "value": "21–24 kg per standard length"
+    },
+    {
+      "label": "Material",
+      "value": "EPDM rubber"
+    }
+  ],
+  "tags": [
+    "epdm bumper",
+    "column protection",
+    "loading bay"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "automatic-modular-powder-extinguisher-10kg",
+  "name": "Automatic Modular Powder Extinguisher — 10 kg",
+  "category": "fire-extinguishers",
+  "sku": "KMPRQ-10",
+  "featured": false,
+  "shortDescription": "Ceiling-mounted self-actuating MAP powder unit for round-the-clock automatic protection.",
+  "longDescription": "The powder-charged counterpart to the modular clean agent unit — a ceiling-mounted, self-triggering extinguisher charged with Mono Ammonium Phosphate powder. With no human involvement required, it removes the delay between ignition and response in spaces that aren't continuously staffed, and the reusable, non-aerosol cylinder keeps long-term running costs down compared with disposable automatic units. Non-freezing and rated for continuous outdoor-adjacent use.",
+  "images": [
+    {
+      "src": "/placeholders/fire-extinguishers.svg",
+      "alt": "Automatic Modular Powder Extinguisher — 10 kg supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Capacity",
+      "value": "10 kg"
+    },
+    {
+      "label": "Mounting",
+      "value": "Ceiling mounted"
+    },
+    {
+      "label": "Extinguishing media",
+      "value": "Mono Ammonium Phosphate (MAP) powder"
+    },
+    {
+      "label": "Fire class",
+      "value": "A, B, C, electrical"
+    },
+    {
+      "label": "Discharge time",
+      "value": "10–15 seconds"
+    },
+    {
+      "label": "Recommended hanging height",
+      "value": "1.75–2.25 m"
+    },
+    {
+      "label": "Area protection",
+      "value": "4–5 m²"
+    },
+    {
+      "label": "Also available in",
+      "value": "2, 5, 15 kg"
+    }
+  ],
+  "tags": [
+    "automatic",
+    "modular",
+    "powder",
+    "ceiling mounted",
+    "unattended",
+    "kanex"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "flexible-delineator-spring-post",
+  "name": "Flexible Delineator — Spring Post",
+  "category": "road-traffic-safety",
+  "sku": "ESS-RD-DEL-01",
+  "featured": false,
+  "shortDescription": "Spring-loaded flexible bollard marking lanes and hazard zones, springs back after impact.",
+  "longDescription": "A polyurethane delineator post mounted on a spring base that flexes and springs back upright after a vehicle knock, instead of snapping or staying bent over — used for marking lane edges, hazard zones and temporary exclusion areas that still see occasional vehicle contact.",
+  "images": [
+    {
+      "src": "/placeholders/road-traffic-safety.svg",
+      "alt": "Flexible Delineator — Spring Post supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Size",
+      "value": "750 x 200 x 200 mm"
+    },
+    {
+      "label": "Weight",
+      "value": "1.3 kg"
+    },
+    {
+      "label": "Material",
+      "value": "Polyurethane (PU)"
+    },
+    {
+      "label": "Use case",
+      "value": "Lane marking, temporary hazard delineation"
+    }
+  ],
+  "tags": [
+    "delineator post",
+    "spring post",
+    "flexible bollard"
+  ]
+}

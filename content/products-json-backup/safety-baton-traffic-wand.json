@@ -1,0 +1,42 @@
+{
+  "slug": "safety-baton-traffic-wand",
+  "name": "Safety Baton — Rechargeable LED Traffic Wand",
+  "category": "road-traffic-safety",
+  "sku": "ESS-RD-BAT-01",
+  "featured": false,
+  "shortDescription": "Rechargeable LED traffic wand for directing vehicles in low light.",
+  "longDescription": "A battery-operated, rechargeable LED baton for security staff and traffic marshals directing vehicles at night or in low-visibility conditions — green, red and flashing green-red modes give clear, unambiguous stop/go signals across a wider distance than a hand signal alone.",
+  "images": [
+    {
+      "src": "/placeholders/road-traffic-safety.svg",
+      "alt": "Safety Baton — Rechargeable LED Traffic Wand supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Length",
+      "value": "54 cm"
+    },
+    {
+      "label": "Diameter",
+      "value": "4 cm"
+    },
+    {
+      "label": "Material",
+      "value": "Plastic with 6 LEDs"
+    },
+    {
+      "label": "Modes",
+      "value": "3-colour — green, red, flashing green-red"
+    },
+    {
+      "label": "Power",
+      "value": "Battery operated, rechargeable"
+    }
+  ],
+  "tags": [
+    "safety baton",
+    "traffic wand",
+    "led baton"
+  ]
+}

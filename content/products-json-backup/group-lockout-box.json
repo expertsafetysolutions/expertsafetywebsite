@@ -1,0 +1,42 @@
+{
+  "slug": "group-lockout-box",
+  "name": "Group Lockout Box",
+  "category": "lockout-tagout",
+  "sku": "EXPERT-SH-GLB-R-L",
+  "featured": true,
+  "shortDescription": "Portable box letting every crew member on a shared job lock in their own padlock.",
+  "longDescription": "For jobs where several people are working on the same isolated equipment, a single lockout point isn't enough — everyone needs to be able to lock in and only leave once their part of the work is done. This portable metal box has multiple external padlock slots plus a lockable main compartment: the equipment's isolation key or hasp goes inside, the box is closed with a primary lock, and every crew member then adds their own padlock to the exterior. The equipment can't be re-energised until every individual has removed their lock.",
+  "images": [
+    {
+      "src": "/placeholders/lockout-tagout.svg",
+      "alt": "Group Lockout Box supplied by Expert Safety Solutions, Vadodara"
+    }
+  ],
+  "specs": [
+    {
+      "label": "Construction",
+      "value": "Powder-coated metal, portable handle"
+    },
+    {
+      "label": "Padlock slots",
+      "value": "5–26 (by model)"
+    },
+    {
+      "label": "Sizes",
+      "value": "Compact (110x154x110mm) up to standard (253x154x110mm)"
+    },
+    {
+      "label": "Front",
+      "value": "Transparent polycarbonate viewing panel (select models)"
+    },
+    {
+      "label": "Use case",
+      "value": "Multi-person / group lockout on shared isolation points"
+    }
+  ],
+  "tags": [
+    "group lockout box",
+    "multi person lockout",
+    "loto"
+  ]
+}
