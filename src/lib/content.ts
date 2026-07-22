@@ -32,7 +32,7 @@ const imageSchema = z.object({
 });
 
 /**
- * Products are Tina-managed MDX (see .tina/config.ts) — this schema mirrors
+ * Products are Tina-managed MDX (see tina/config.ts) — this schema mirrors
  * that collection's fields exactly so loadMdxCollection can validate the same
  * frontmatter Tina writes. `gallery` intentionally uses `image` (not `src`)
  * to match Tina's field name; `description` is the MDX body (Tina rich-text).

@@ -46,8 +46,13 @@ export default defineConfig({
         format: "mdx",
         ui: {
           // "Open the live page" link in the top-right of the Tina editor.
-          router: ({ document }) =>
-            `/products/${document._values.category}/${document._values.slug}`,
+          // `_values` carries the document's field values at runtime but
+          // isn't part of TinaCMS's declared `Document` type, hence the cast.
+          router: ({ document }) => {
+            const category = (document as unknown as { _values: { category: string } })
+              ._values.category;
+            return `/products/${category}/${document._sys.filename}`;
+          },
         },
         fields: [
           {
